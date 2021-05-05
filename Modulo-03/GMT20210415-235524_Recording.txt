@@ -1,0 +1,372 @@
+00:09:27	Antonio José de Medeiros Neto:	Boa noite
+00:09:32	Alexandre Ricardo Tuti:	Boa noite!
+00:09:34	Bruno Alves dos Santos:	Boa noite
+00:11:07	Oseias Bueno:	Boa noite.
+00:11:24	Ronivaldo Castro:	Boa noite.
+00:11:39	Professor  - Vagner Clementino:	Boa Noite Pessoal
+00:11:46	Marcelo Pio:	Boa noite!
+00:11:55	rafael hieda:	Boa noite!
+00:11:59	Rodolfo Passos:	Boa noite
+00:12:02	giuliano vimieiro:	Bom Momento
+00:12:11	Alexandre Rodrigues:	Boa noite
+00:12:31	Márcio Rodrigues:	Nooite
+00:12:53	Ricardo de Oliveira Cruz Junior:	Boa noite pessoal !
+00:12:53	Monitora Carolina Carvalho:	Boa noite, pessoal! Meu nome é Carolina Carvalho, sou Monitora IGTI, e acompanharei vocês na aula de hoje. Qualquer dúvida estou à disposição! :D
+00:12:54	William Pereira:	Noite
+00:12:56	Mauricio Trindade:	Boa noite
+00:13:13	William Pereira:	sim
+00:13:13	Alexandre Ricardo Tuti:	Bom momento
+00:13:13	giuliano vimieiro:	sim
+00:13:14	Paulo Carlos Teixeira:	Opa..boa noite sim
+00:13:16	Mauricio Trindade:	sim
+00:13:17	Antonio José de Medeiros Neto:	sim
+00:13:18	Oseias Bueno:	sim
+00:13:20	GILMAR Edmundo CARNEIRO:	Boa noite
+00:13:23	Ricardo de Oliveira Cruz Junior:	Sim
+00:13:46	Bruno Alves dos Santos:	Ultima aula = as aulas gravadas ou a última aula interativa?
+00:13:56	Pedro Rigo:	Boa noite!
+00:14:38	Monitora Carolina Carvalho:	Boa noite, pessoal! Meu nome é Carolina Carvalho, sou Monitora IGTI, e acompanharei vocês na aula de hoje. Qualquer dúvida estou à disposição! :D
+00:14:52	André Luis Teixeira:	boa noite
+00:15:59	AUGUSTO CASTRO:	Boa noite.
+00:16:02	Tutor Odivaney Pedro:	Boa noite pessoal, aqui é o Tutor Odivaney, estarei acompanhando vocês pelo Q&A.
+00:16:09	Weslei Luiz de Paula Pinto:	boa noite pessoal
+00:16:10	Silvia Schwanz Lucas:	Boa noite
+00:17:04	Mariane Medeiros:	Boa noite!
+00:17:26	Sergio Freire do Nascimento:	Boa noite
+00:18:07	Lucas Duete:	boa noite
+00:18:47	Monitora Carolina Carvalho:	Prezados(as), selecionem, acima da caixa de comentários, a opção "all panelists and attendees", ou "todos os participantes e palestrantes", para que todos possam ler suas mensagens!
+00:19:35	MATHEUS FLAUZINO:	ok
+00:20:07	ALFREDO DE CARVALHO NETO:	boa noite
+00:22:14	Elton Moro:	ok
+00:23:20	giuliano vimieiro:	show
+00:23:20	João Paulo B. Faria:	Tudo tranquilo!
+00:23:23	Lucas Duete:	sem problemas
+00:23:24	Jamesson Faria:	ok
+00:23:24	Alissar Moussa:	Tudo certo prof
+00:23:31	Rodrigo de Almeida Francisco:	tranquilo
+00:23:31	Sandro Marcos de Souza:	tá de boa
+00:23:32	William Teixeira:	tudo certo
+00:23:45	giuliano vimieiro:	nunca trabalhei com distribuida
+00:24:16	hugo sampaio:	quem trabalhou com algo distribuido e não passou por essas falácias ou é mto bom de arquitetura ou não era distribuido
+00:24:51	João Paulo B. Faria:	legal
+00:24:59	Alissar Moussa:	Acontece muito… especialmente questão de autorização em cada endpoint
+00:27:34	Allef Gomes:	Quando tenho uma integração via REST também se torna uma arquitetura distribuída? Ex: Um sistema meu utiliza a api do trevo para consumir alguns dados.
+00:28:04	AUGUSTO CASTRO:	Nesse caso acho que orientado a serviços.
+00:28:25	Allef Gomes:	trello*
+00:28:45	Ugo Cavalcanti:	é distribuido.
+00:29:55	Alexandre Ricardo Tuti:	Existe uma configuração para a quantidade de falhas até ser chamado o circuit Breaker
+00:29:56	Alexandre Ricardo Tuti:	?
+00:30:34	Guionardo Furlan:	Implementei o circuit breaker em alguns microsserviços aqui na empresa. O comportamento padrão é depois de n exceções ao consumir APIs externas, é colocado um perído cada vez maior entre cada nova requisição, até um limite que realmente dispara uma exceção na operação.
+00:30:43	Dayana de Paula Oliveira:	Existem ferramentas que fazem essa tratativa automatizada?
+00:30:45	Alexandre Ricardo Tuti:	Perfeito
+00:30:50	Alexandre Ricardo Tuti:	Muito obrigado
+00:30:57	Guionardo Furlan:	No C#, temos o componente polly
+00:30:58	ALFREDO DE CARVALHO NETO:	eu achava q o CB era uma forma de por em uma fila pra posterior execução garantindo a transação
+00:31:13	Lilian Sousa:	Existem sim: Circuit Breaker, Spring Retry e Resilience4J são exemplos de bibliotecas.
+00:31:55	Yuri Costa:	Eu tinha uma implementação que integrava o meu sistema com um webscoket, só que por algum motivo o websocket caía a cada 40s +-, daí eu fiz um verificador que, quando caía, ele conectava o client ao websocket de nv.Isso seria um exemplo de circuit breaker?
+00:32:56	Guionardo Furlan:	Não é exatamente um CB, Yuri.
+00:34:17	Mauricio Trindade:	Yuri, este parece mais um tratamento de verificação de saúde do seu websocket do que um circuit breaker
+00:34:19	Elton Moro:	sim
+00:34:19	Alexandre Ricardo Tuti:	Tudo ok
+00:34:19	AUGUSTO CASTRO:	Tudo certo.
+00:34:20	João Paulo B. Faria:	tranquilo!
+00:34:22	Bruce Alexsander:	Okay
+00:34:25	William Teixeira:	Tem algum motivo o nome aberto e fechado?
+00:34:32	Mauricio Trindade:	que também é bem importante diga-se de passagem
+00:35:18	hugo sampaio:	o nome tem a ver com circuitos eletricos
+00:35:23	Mauricio Trindade:	no seu exemplo, quem consumiria o seu websocket faria o circuit breaker  como tratamento quando desse falha....
+00:35:27	hugo sampaio:	aberto é interruptor desligado
+00:35:34	William Teixeira:	Boa!
+00:35:38	William Teixeira:	obrigado
+00:35:47	Yuri Costa:	valeu, Mauricio
+00:36:16	Mauricio Trindade:	tmj
+00:39:53	Sandro Marcos de Souza:	Na empresa onde trabalho o CQRS é um dos padrões utilizados
+00:40:49	Hallison Faria:	Somente o CQRS Sandro?
+00:41:35	Geovani Succi:	CQRS é bacana.. mas mto fácil de se construir uma bola de lama
+00:42:03	Geovani Succi:	precisa ter bastante maturidade em decidir usar cqrs com event sourcing por exemplo...
+00:42:14	Mauricio Trindade:	usam muito redis tbm pra cqrs...
+00:42:33	Tutor Odivaney Pedro:	Pessoal comentários bons vindo apenas para os panelists, alterem para enviar para todos por favor
+00:43:04	Oscar Casagrande:	dá para usar o Redis tbm, mas ele só escala verticalmente... tem que tomar cuidado para não perder a mão e a hora de fazer o sharding
+00:43:23	Kevin Allen:	Detalhe que muita gente usa CQS e acha que usa CQRS
+00:43:24	Sandro Marcos de Souza:	Não Hallison Faria é um dos padrões
+00:43:49	LUCAS SANTOS:	O que eu mais vejo é usarem o conceito parcial de CQRS pra segregar comandos e queries mas utilizando o mesmo banco de dados...
+00:43:57	Hallison Faria:	Entendi
+00:44:03	Mauricio Trindade:	verdade Oscar
+00:44:04	Kevin Allen:	Lucas, nesse caso aí é CQS.
+00:44:19	ALFREDO DE CARVALHO NETO:	trabalhei num ETL q unia varias fontes de dados para gerar um dataware house
+00:44:25	Oscar Casagrande:	Dúvida:quando a gente fala de CQRS, podemos entender que do ponto de vista de DDD estamos trabalhando com subdomain ou use cases para gerarmos nano serviços, como por exemplo o serviços de busca de um catálogo de produtos de um e-commerce?
+00:46:00	Oscar Casagrande:	entendi, está mais para um padrão corporativo do que para a aplicação, tbm podemos pensar nisso (eu acho)
+00:46:02	Oscar Casagrande:	obrigado
+00:46:42	Sandro Marcos de Souza:	"Queria saber qual a vantagem de usar o CQRS com o Mediator." Hallison Faria, usamos exatamente com o Mediator e focando em SOLID. E a arquitetura utilizada é conhecida como "cebola"
+00:47:19	Tutor Odivaney Pedro:	Pessoal corrigindo uma informação passado no Q&A o gabarito do desafio sai hoje as 23:59.
+00:49:06	Antonio José de Medeiros Neto:	Esse gabarito fica na própria prova do desafio?
+00:49:59	Monitora Carolina Carvalho:	O gabarito aparece no canvas mesmo, na atividade :)
+00:51:18	Antonio José de Medeiros Neto:	Valeu! Obrigado
+00:51:33	Hallison Faria:	Muito obrigado Sandro :)
+00:52:12	Sandro Marcos de Souza:	Disponha Hallison
+00:52:36	Hallison Faria:	começamos a usar na empresa também, mas não conhecia muito. Mas estou achando bem bacana
+00:53:07	William Teixeira:	Calcular o estado atual considerando uma lista de logs, não tem custo?
+00:53:50	William Teixeira:	snapshot
+00:53:56	William Teixeira:	boa! entendi
+00:54:06	William Teixeira:	Obrigado!
+00:54:43	Dayana de Paula Oliveira:	bom
+00:54:45	Bruno Alves dos Santos:	tá tranquilo!
+00:54:45	Ugo Cavalcanti:	ta otimo
+00:54:49	Alexandre Ricardo Tuti:	Está ok
+00:54:49	Elton Moro:	está bom!
+00:54:49	hugo sampaio:	o andamento tá bão
+00:54:49	Helenira Ferro:	OTIMO
+00:54:49	Guilherme De Melo:	Ta bem legal
+00:54:49	Alissar Moussa:	Por mim tá tranquilo
+00:54:50	Melissa Trofino Vieira de Santana:	tá bom o ritmo
+00:54:50	Hallison Faria:	está bem bacana
+00:54:54	Bruce Alexsander:	ta relax
+00:54:54	Geovani Succi:	tá de boa
+00:54:56	Alissar Moussa:	Pode mostrar código sim
+00:54:57	ELTON VIEIRA COSTA:	'tá ótimo
+00:54:57	Oscar Casagrande:	tá blz
+00:55:01	Carlos Eduardo Jeronimo:	está bom sim
+00:55:02	Ugo Cavalcanti:	nao... ta bom demais
+00:55:03	Danilo Noqueli:	ta otimo
+00:55:04	ELTON VIEIRA COSTA:	aprendendo muito aqui
+00:55:05	Paulo Carlos Teixeira:	tá belezq
+00:55:06	Oscar Casagrande:	código é bom de mostrar tbm :)
+00:55:57	Sandro Marcos de Souza:	Estamos usando o mediator, e o bacana é que da para configurar algumas coisas bacanas, como para cada comando/consulta podemos usar se quiser uma validação, essa validação usamos o FluenValidation, desta forma deixando as responsabilidades bem separadas
+00:57:08	Rodrigo Oliveira:	Boa noite. Já foi disponibilizado o link da enquete?
+00:57:14	Ugo Cavalcanti:	n
+00:57:27	Hallison Faria:	hum....bacana  demais, estou vendo que essa separação de responsabilidades nele fica bem legível.
+00:57:41	Monitora Carolina Carvalho:	Olá, ainda não lancei a enquete :) Avisarei vocês quando eu enviar o link.
+00:57:51	hugo sampaio:	parece que esse carinha vai me resolver umas dores
+00:58:12	LUCAS SANTOS:	Fiz uma lib (Tyrion) pra dotnet pra fazer essa parte de comando e query e da pra usar o fluent.
+00:59:18	Sandro Marcos de Souza:	show de bola, estou gostando da iteração. quanto mais informação melhor
+01:00:44	Kevin Allen:	Legal é o Istio
+01:00:57	giuliano vimieiro:	Vagner isso não é parecido com Microkernel ? ou estou confundindo ?
+01:01:06	hugo sampaio:	tbm senti a semelhança
+01:01:09	Geovani Succi:	new relicelasticsearch
+01:01:16	hugo sampaio:	é um microkernel de 1 plugin
+01:01:22	giuliano vimieiro:	ué um core e extende
+01:01:33	Gustavo Hillesheim:	acho que isso faria mais sentido comparar com camadas
+01:01:40	Gustavo Hillesheim:	vc tem a camada core, e coloca uma camada API em cima
+01:01:52	Gustavo Hillesheim:	ou um decorator
+01:02:12	Melissa Trofino Vieira de Santana:	Sidecar poderia ser colocado em outras aplicações? Como se fosse uma DLL?
+01:02:15	hugo sampaio:	seria um sidecar por interesse extra?
+01:02:22	giuliano vimieiro:	ahh sim
+01:02:23	Claudio Oliveira:	Quando vc fala transversais, são interesses comuns?
+01:02:25	Tutor Odivaney Pedro:	Pessoal muito comentáriobom sendo enviados apenas para os panelists
+01:02:45	Tutor Odivaney Pedro:	lembrem-se de colcoar all panelists and attendees
+01:02:46	marcos fabre jr:	sidecar entao é um tipo especifico de microkernel, tipo um quadrado é um tipo especifico e notável de retangulo.
+01:03:02	Guionardo Furlan:	No caso do sidecar, a aplicação primária não "sabe" do sidecar.
+01:03:17	Paulo Stradioti:	o MIcrokernel 
+01:04:19	Jamesson Faria:	Vagner, o sidecar normalmente extende para requisitos não funcionais ?
+01:04:45	hugo sampaio:	o sidecar é pra qq core...
+01:05:05	hugo sampaio:	é o pacote de utils hehehe
+01:05:17	Jamesson Faria:	show, verdade, parece um pacote de utils
+01:05:24	Melissa Trofino Vieira de Santana:	acho que essa é a grande diferença, plugin do microkernel só serve para o core
+01:06:34	Ugo Cavalcanti:	Boa Melissa. boa observação
+01:07:17	giuliano vimieiro:	bom momento
+01:07:42	Monitora Carolina Carvalho:	Enquete liberada, pessoal :) https://online.igti.com.br/courses/3209/quizzes/32046
+01:08:17	Tutor Odivaney Pedro:	Se alguém puder fazer a gentileza de mandar o link da enquete no Q&A, vou deixar ele lá...
+01:08:25	Darcio Cantelli:	Enquete Ok
+01:08:50	Rodolfo Passos:	Feito
+01:08:53	Monitora Carolina Carvalho:	Enquete liberada, pessoal :) https://online.igti.com.br/courses/3209/quizzes/32046
+01:09:10	GILMAR EDMUNDO CARNEIRO:	Feito
+01:09:54	Monitora Carolina Carvalho:	Não se esqueçam da enquete, pessoal :) https://online.igti.com.br/courses/3209/quizzes/32046
+01:13:05	Alissar Moussa:	Olá, tudo certo
+01:13:12	Sandro Marcos de Souza:	liberado
+01:13:13	Bruce Alexsander:	tudo OK
+01:13:16	Carlos Eduardo Jeronimo:	ok
+01:13:19	William Teixeira:	let's go
+01:13:28	Danilo Noqueli:	let's go
+01:13:32	Antonio José de Medeiros Neto:	Tudo ok!
+01:14:08	Monitora Carolina Carvalho:	Caso alguém tenha problemas com a enquete, envie-me pelo Q&A :)
+01:14:12	hugo sampaio:	esse problema tá curioso, o backend tá fazendo o trabalho dele
+01:15:53	Antonio Resende:	Gostaria de saber como tirar dúvidas do desafio sem ser por fórum, mas conversando com alguém. Por exemplo, no desafio, tive resposta marcada como errada e discordo. Se de fato errei, quero saber onde errei. Um exemplo, é a arquitetura do Silicon sanduiche. Marquei que a arquitetura deveria ser mista e foi apontado como errada.
+01:16:53	Bruno Alves dos Santos:	Tive te implementar isso para um serviço de chatbot que atendia na Web, WhatsApp, Mobile, etc
+01:17:47	Hallison Faria:	Nesse ponto o seu BFF seria API mesmo(.Net Core ou Node)?
+01:18:02	Lucas Simões:	sim
+01:18:11	Lucas Simões:	Onde trabalhamos Alisson, fazemos ela em Node
+01:18:22	Antonio Resende:	Carolina, há um canal e horário para conversar com o tutor sem ser por mensagem assíncrona. Preciso de um bate bola, de ouvir resposta, ponderar, etc.
+01:18:32	William Teixeira:	O BFF é tipo uma view ?
+01:18:34	Hallison Faria:	bacana...aonde trabalho foi feito em .Net Core
+01:19:09	Oscar Casagrande:	eu tive um problema de conceito em um projeto no qual o time App passou para nosso time (Desktop) os endpoints do BFF deles como se fossem endpoints de um domínio, pior que eram endpoints de um mesmo tema, descobrimos quando começamos a "capotar" o BFF deles...
+01:19:19	Lucas Simões:	Não bem uma View… ele é um backend mesmo, só que voltado a especificações do front, tirar os dados direitinho (quando eles vem de diferentes micro serviços), unificar o endpoint, entre outros ganhos
+01:19:52	Oscar Casagrande:	BFF tá mais para um super adapter de vários domínios e serviços para o seu front, talvez até meio que um middleware
+01:19:52	Jamesson Faria:	Vagner, é valido o uso do BFF em conjunto com a arquitetura orientada a serviços ?
+01:19:55	Ugo Cavalcanti:	Nao entendi essa parte ai
+Pq os ednpoints do desketop nao serviria para o Mobile? Nao entendi o real problema que obriga um BFF separado =/
+01:19:57	Claudio Oliveira:	Desculpe-me, o que significa a sigla BFF?
+01:20:09	Hallison Faria:	Hoje usamos o .net com o Gateway
+01:20:19	Claudio Oliveira:	Valeu!
+01:20:37	marcos fabre jr:	GraphQL entra nessa arquitetura ?
+01:20:42	Oscar Casagrande:	dá para ter mais de um BFF para cada o mesmo front, é outra estratégia que discutimos
+01:21:10	Angela Crepaldi:	BFF: quando o backend e o frontend andam juntinhos aí else se tornam Best Friends Forever! :D hahaha
+01:21:52	Yuri Costa:	poxa, angela...
+01:21:56	William Teixeira:	rs
+01:21:57	Lucas Simões:	No Mercado Livre, PicPay e outras empresas, o BFF é de responsabilidade dos devs front, com apoios eventuais dos times de Back…
+01:21:59	Yuri Costa:	poxa angela...
+01:22:34	Jamesson Faria:	Vagner, é valido o uso do BFF em conjunto com a arquitetura orientada a serviços ?
+01:22:44	Hallison Faria:	Lucas mas ai teria um Gateway ou algo assim para autenticação?
+01:23:07	Lucas Simões:	Sim, no nosso caso existe a autenticação com Keycloack
+01:23:08	Ronivaldo Castro:	onde trabalho o BFF é responsável pelas duas equipes, então sempre temos reuniões de definições de contratos para definirmos juntos, Back, iOS e Android
+01:23:18	Lucas Simões:	Ai você pode usar autenticação OAUTH do google, etc...
+01:23:32	Hallison Faria:	hum....bacana
+01:24:09	Hallison Faria:	Vlw Lucas...aqui e parecido....mas o Back End e responsável.
+01:24:22	Pedro Pellizzaro:	é complicado a migração de uma aplicação com estrutura de chamadas REST padrão para GraphQL?
+01:24:55	Yuri Costa:	depende da aplicação
+01:24:56	Ugo Cavalcanti:	fato... 100 eh muuuuito diferente de 9,90
+01:24:59	Ugo Cavalcanti:	=D
+01:25:17	Lucas Simões:	Pedro, é possível usar GraphQL e REST ao mesmo tempo, ou seja, ir migrando aos poucos...
+01:25:35	Lucas Medeiros:	ok
+01:25:35	William Teixeira:	ok
+01:25:40	Guilherme De Melo:	beleza
+01:25:41	Claudio Oliveira:	sim
+01:25:41	Lucas Simões:	ok
+01:25:52	Danilo Noqueli:	Ok
+01:25:52	Pedro Pellizzaro:	massa, Lucas
+01:26:36	Sandro Marcos de Souza:	Pedro, nem tenta é complexo demais, esse tipo de definição deve ser levantado no início do projeto. Iriamos iniciar um projeto em GraphQL, mas vimos que o tempo de aprendizado dos desenvolvedores ia demorar muito e identificamos vários problemas que não achamos como seria para implementar então desistimos e começamos o projeto no REST mesmo
+01:29:00	Lucas Simões:	Muito válido o ponto do Sandro, tem uma curva grande… Mas dá pra conviver com os dois, implementando nos melhores casos e deixando os piores em REST, da forma padrão até conseguir fazer toda transição
+01:29:02	Kevin Allen:	Fallback :)
+01:29:09	William Teixeira:	CB
+01:29:10	Oscar Casagrande:	tinha essa empresa antigamente que fazia issohttps://www.precifica.com.br/pt-br/
+01:29:22	Pedro Pellizzaro:	pois é, o projeto ainda tá no início mas a API já tá com muita coisa pronta
+01:29:31	Sandro Marcos de Souza:	Valeu Lucas Simões
+01:30:44	Guilherme Costa:	kkkkkkkkkkkkk
+01:30:46	William Teixeira:	ahhh kkk
+01:30:48	Alissar Moussa:	KKKKKKKKKKKKKKKKK
+01:30:48	Oscar Casagrande:	kkkkkkkkkkkkkkkkkkkkkkkkk
+01:30:50	Guilherme De Melo:	eita kkk
+01:30:50	Alissar Moussa:	AAAAAA
+01:30:50	William Teixeira:	boa!
+01:30:51	Lucas Simões:	kkkkkkkk
+01:30:57	Oscar Casagrande:	para isso que pagamos o bootcamp ahuahuahauha
+01:31:00	Ugo Cavalcanti:	esssa foi bronca
+01:31:01	Ugo Cavalcanti:	UAuhUAhuaa
+01:31:03	Alissar Moussa:	HAHAHAHAHAHA
+01:31:05	hugo sampaio:	Code Complete!
+01:31:06	Oscar Casagrande:	bota novamente
+01:31:08	Alissar Moussa:	Agora valeu a pena
+01:31:09	Oscar Casagrande:	não printei
+01:31:18	Guilherme De Melo:	sim
+01:31:18	Kevin Allen:	Galera pira no javinha
+01:31:19	Paulo Carlos Teixeira:	Sim
+01:31:20	Lucas Medeiros:	s
+01:31:21	William Teixeira:	sim
+01:31:21	Melissa Trofino Vieira de Santana:	sim
+01:31:23	Alexandre Ricardo Tuti:	Sim
+01:31:50	Rodrigo de Almeida Francisco:	pô... cade o C# kkkkk
+01:32:00	Pedro Pellizzaro:	Team C#
+01:32:15	Elton Moro:	Java é vida !!!
+01:32:18	Elton Moro:	kkk
+01:33:18	Paulo Carlos Teixeira:	Java é Java. kkkkkkkkkkkkk
+01:33:42	Rodrigo de Almeida Francisco:	C# é vida, C# é Agro, C# é Tech.... kkkk
+01:33:45	Danilo Noqueli:	com certeza Java é a melhor linguagem
+01:33:52	Danilo Noqueli:	hahahahahha
+01:33:54	Geovani Succi:	java e erro 500 combina né
+01:34:00	Geovani Succi:	XD
+01:34:01	Hallison Faria:	boa Rodrigo...kkkkkk
+01:34:22	Rodrigo de Almeida Francisco:	ahhahahaa
+01:34:43	William Teixeira:	Boa !!!
+01:35:00	William Teixeira:	pegar o código ajuda muito
+01:35:06	hugo sampaio:	o dia que alguem escrever um Sistema operacional com C# ou java, aí dá pra falar oque é bom
+01:35:19	Danilo Noqueli:	hahahhahahhahahha
+01:35:22	Hallison Faria:	kkkkkk
+01:35:30	William Teixeira:	android
+01:35:34	Danilo Noqueli:	olha os programadores C++ falando
+01:35:36	Gustavo Seabra:	Foi mal... não havia reparado
+01:35:38	Danilo Noqueli:	ahhahahhaha
+01:35:41	Danilo Noqueli:	zuera
+01:35:49	Tutor Odivaney Pedro:	Essa discursão de linguagem acaba hoje não gente, hahaha, foca na aula.
+01:36:00	Sandro Marcos de Souza:	A melhor linguagem é aquela que está alimentando a minha conta-corrente
+01:36:09	Danilo Noqueli:	verdade
+01:36:13	Danilo Noqueli:	justo
+01:36:16	Rodrigo de Almeida Francisco:	boa
+01:36:22	Lucas Simões:	boa
+01:36:58	Thiago Giffoni:	Alguém tem o link do git com o projeto?
+01:37:19	Hallison Faria:	justo Sandro...rsrsrs
+01:38:13	Thiago Giffoni:	Como diz um amigo, Java é que paga as contas... ainda sobra uma grana para o happy hour rsrsrs
+01:38:24	Pedro Pellizzaro:	com C# dá pra fazer isso com 4 linhas
+01:38:47	Sandro Marcos de Souza:	No  meu caso hoje é C# que está pagando as contas e muito bem obrigado, rsrs
+01:39:24	Monitora Carolina Carvalho:	Prezados(as), selecionem, acima da caixa de comentários, a opção "all panelists and attendees", ou "todos os participantes e palestrantes", para que todos possam ler suas mensagens! :)
+01:39:35	hugo sampaio:	curiosamente, trip é o nome usado nos sistemas elétricos, quando ocorre alguma falha na rede elétrica (cai galho e tals) e a chave tem de abrir
+01:40:05	Guilherme Costa:	nada se cria, tudo se copia haha
+01:40:25	Mauricio Trindade:	foi algum engenheiro elétrico que programou isso....rs
+01:40:35	Mauricio Trindade:	ou entusiasta na elétrica...rs
+01:40:42	Angela Crepaldi:	O circuit breaker real da engenharia elétrica tem essa ação de "trip"
+01:42:42	hugo sampaio:	esse é meu caso
+01:43:58	William Teixeira:	depois mostr ao método trip novamente
+01:44:42	hugo sampaio:	o trip só muda o enum pra open
+01:44:48	Thiago Giffoni:	https://github.com/vagnerclementino/circuit-breaker
+01:44:56	William Teixeira:	boa obrigado
+01:46:10	Bruno Alves dos Santos:	Deu sim!
+01:46:11	Jamesson Faria:	ok
+01:46:14	hugo sampaio:	mto lgl
+01:46:14	João Paulo B. Faria:	sim. foi legal!
+01:46:14	Weslei Luiz de Paula Pinto:	deu sim
+01:46:17	Weslei Luiz de Paula Pinto:	muito bom
+01:46:18	Guilherme De Melo:	Bem legal
+01:46:20	Sandro Marcos de Souza:	bacana
+01:46:38	Pedro Pellizzaro:	alguém pode explicar o que significa aquele "::"?
+01:46:41	Weslei Luiz de Paula Pinto:	poderia ser um generics não?
+01:46:43	Guilherme De Melo:	Não da pra usar generics?
+01:47:09	Guilherme De Melo:	Show
+01:47:13	Weslei Luiz de Paula Pinto:	aí sim
+01:47:22	William Teixeira:	não sabia que dava para passar funções  em java, interessante
+01:47:41	giuliano vimieiro:	:: é uma sintaxe implementada a partir do java 8
+01:47:46	Kevin Allen:	"alguém pode explicar o que significa aquele "::"?"É um syntax sugar para o lambda, ex: x -> x.calcular()Ficaria Calculadora::calcular
+01:48:17	Pedro Pellizzaro:	entendi, valeu, Kevin!
+01:48:28	Pedro Pellizzaro:	um syntax sugar do syntax sugar kkkk
+01:48:29	AUGUSTO CASTRO:	Reference Method o nome.
+01:50:40	Sergio Freire do Nascimento:	mas nesse caso o siggestedPrece não deveria ser o ultimo no caso 122
+01:50:49	Jamesson Faria:	Nessa primeira vez que ele acusa o erro 500 já não poderia ser tratada também essa resposta ?
+01:51:10	Ugo Cavalcanti:	apareeu 122 mesmo
+01:51:25	Guilherme De Melo:	Professor, teria material/livros para indicar sobre esses assuntos?
+01:51:46	Guilherme De Melo:	valeu :D
+01:53:14	Tiago Mesquita:	10 minutos? Podemos ficar mais 60 :D? bom demais!
+01:53:26	Jamesson Faria:	show
+01:53:28	William Teixeira:	Aula boa mesmo!
+01:53:30	Jamesson Faria:	Valeu professor, foi muito bom parabéns pela aula.
+01:53:36	Oscar Casagrande:	aula foi top, bacana!
+01:53:41	Weslei Luiz de Paula Pinto:	verdade, a aula foi muito boa
+01:53:42	giuliano vimieiro:	sabe mto mesmo
+01:53:44	Ugo Cavalcanti:	show
+01:53:45	Oscar Casagrande:	Bom momento!
+01:53:59	William Teixeira:	Desafio ta bem ambíguo !
+01:54:00	Jamesson Faria:	valeu boa noite
+01:54:08	Maurilio Macedo:	TOP.... vlw d+! Bom momento....
+01:54:23	Glaucius Pereira Duarte:	Boa noite a todos.. excelente aula professor!
+01:54:31	Lucas Simões:	Excelente módulo.
+01:54:33	Lucas Simões:	Bem desafiador
+01:54:34	Lucas Simões:	Pra cima
+01:54:34	Ugo Cavalcanti:	boa noite galera
+01:54:38	William Pereira:	Noite
+01:54:40	Ugo Cavalcanti:	flw
+01:54:40	Elton Moro:	Boa noite!
+01:54:42	Sergio Freire do Nascimento:	boa noite
+01:54:43	Richard Altmayer:	Boa noite a todos
+01:54:43	GILMAR EDMUNDO CARNEIRO:	Boa noite á todos
+01:54:44	Antonio José de Medeiros Neto:	Boa noite! Valeu aula muito boa...
+01:54:45	Gustavo Seabra:	Boa noite galera... bom d+ Vlw
+01:54:46	Kevin Allen:	Valeu, bom momento!
+01:54:46	Lucas Simões:	Boa noite
+01:54:47	Alexandre Ricardo Tuti:	Boa noite!
+01:54:47	Pedro Pellizzaro:	valeu, pessoal
+01:54:47	Marcelo Martins:	Boa noite pessoal
+01:54:47	Weslei Luiz de Paula Pinto:	boa noite pessoal, bom momento
+01:54:47	Sandro Marcos de Souza:	boa noite
+01:54:49	Guilherme De Melo:	Valeuss
+01:54:50	Andre Costa:	Boa noite a todos!
+01:54:50	William Teixeira:	Boa note, obrigado!
+01:54:51	Monitora Carolina Carvalho:	Boa noite, pessoal! Ótima aula hoje. É muito bom estar com vocês. Até à próxima. :D
+01:54:51	Alexandre Ricardo Tuti:	Valeu 
+01:54:52	João Paulo B. Faria:	Valeu! Muito obrigado!
+01:54:53	Danilo Noqueli:	Boa noite prof
+01:54:54	Matheus de Almeida Santos:	Valeu
+01:54:54	Monitora Carolina Carvalho:	Boa noite, pessoal! Ótima aula hoje. É muito bom estar com vocês. Até à próxima. :D
+01:54:55	Tiago Mesquita:	Boa noite, muito obrigado!
+01:54:55	Carlos Eduardo Jeronimo:	boa noite! vlw!
+01:54:56	Aureo Lisboa:	boa noite
+01:54:56	Claudio Oliveira:	boa noite!
+01:54:58	Danilo Noqueli:	obrigadão
+01:54:58	Monitora Carolina Carvalho:	Boa noite, pessoal! Ótima aula hoje. É muito bom estar com vocês. Até à próxima. :D
+01:55:00	William Teixeira:	Um abraço a todos!
+01:55:14	Weslei Luiz de Paula Pinto:	muito obrigado, professor! 

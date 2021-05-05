@@ -1,0 +1,599 @@
+00:07:55	Antonio José de Medeiros Neto:	Boa noite
+00:08:13	Alexandre Ricardo Tuti:	Boa noite!
+00:08:17	Rodolfo Passos:	Boa noite... 
+00:08:18	Fábio de Oliveira Sales:	boa noite
+00:08:20	Monitor Gabriel IGTI:	Boa noite, meu nome é Gabriel e irei acompanhar a aula com vocês. Qualquer ajuda que precisarem, é só chamar! :D
+00:08:21	Ricardo de Oliveira Cruz Junior:	Boa noite pessoal !
+00:08:41	Guionardo Furlan:	Buenas!
+00:08:49	Marcelo Martins:	Boa noite pessoal
+00:08:50	Eduardo Fendrich:	Boa noite
+00:08:52	Bruno Alves dos Santos:	Boa noite!
+00:09:52	Antony Zietz:	Boa noite
+00:10:10	Felipe Ferreira:	Boa noite
+00:10:19	Melissa Trofino Vieira de Santana:	Boa noite!
+00:10:19	Renan Alves:	Boa noite!
+00:10:23	AUGUSTO CASTRO:	boa noite.
+00:10:28	Paulo Stradioti:	Boa noite pessoal 
+00:10:28	Mauricio Trindade:	boa noite
+00:10:52	Antônio Resende:	boa noite.
+00:11:22	Dener Alencar:	Boa noite!
+00:11:26	Lilian Sousa:	Boa noite.
+00:11:41	Dyana Caruso:	boa noite!
+00:11:44	Alexandre Ricardo Tuti:	Bom momento
+00:11:52	Monitor Gabriel IGTI:	Boa noite, meu nome é Gabriel e irei acompanhar a aula com vocês. Qualquer ajuda que precisarem, é só chamar! :D
+00:12:11	João Paulo B. Faria:	Boa noite!
+00:12:26	Carlos Eduardo Jeronimo:	Boa noite pessoal
+00:12:33	André Olivino da Silva:	Boa noite
+00:12:38	Fábio Badaró:	Noite!
+00:12:41	Ronivaldo Castro:	Boa noite
+00:13:01	William Teixeira:	Boa noite!
+00:13:04	João Antonio Paludo Silveira:	Boa noite
+00:13:05	André Luis Teixeira:	boa noite
+00:13:17	Breno Augusto Mariano:	Boa Noite!
+00:13:33	Mateus Carvalho:	Noiiite
+00:13:35	Mateus Carvalho:	sim
+00:13:36	Ravel da Costa Melo:	siim
+00:13:37	Ronivaldo Castro:	bem
+00:13:37	William Teixeira:	Boa noite
+00:13:38	Carlos Eduardo Jeronimo:	Sim
+00:13:39	João Paulo B. Faria:	Opa! Sim
+00:13:39	Bruno Alves dos Santos:	sim
+00:13:39	Wesley Santos:	Boa noite. 
+SIm
+00:13:39	Ravel da Costa Melo:	bom momento
+00:13:39	Edson Candido:	sim
+00:13:44	Alexandre Ricardo Tuti:	Sim
+00:13:45	Mauricio Trindade:	sim
+00:13:46	Paulo Carlos Teixeira:	Opa....sim
+00:13:59	Ravel da Costa Melo:	isso ai
+00:13:59	Wesley Santos:	Olá, bom momento
+00:14:09	Monitor Gabriel IGTI:	Boa noite, meu nome é Gabriel e irei acompanhar a aula com vocês. Qualquer ajuda que precisarem, é só chamar! :D
+00:14:30	ALFREDO DE CARVALHO NETO:	Pessoal meu vídeo esta pequeno e meio escuro
+00:14:31	Rodolfo Menezes:	Boa noite pessoal!
+00:14:40	ALFREDO DE CARVALHO NETO:	ah agora eu vi que vai ter slide e video
+00:14:53	Caio Pierno:	Boa noite!
+00:15:31	Rodrigo de Almeida Francisco:	muitas empresas pedem solid rssss
+00:15:41	João Lucas Stephan:	com as linguagens funcionais ganhando cada vez mais força...
+00:16:25	Alexandre Rodrigues:	Boa noite a todos!
+00:16:32	Monitor Gabriel IGTI:	Boa noite, meu nome é Gabriel e irei acompanhar a aula com vocês. Qualquer ajuda que precisarem, é só chamar! :D
+00:16:53	Raphael Fontoura:	Muito bom...
+00:17:38	Ravel da Costa Melo:	isso é muito bacana, o maior ganho desses bootcamps é esse networking
+00:22:12	ALFREDO DE CARVALHO NETO:	Neste momento estou com Angular e Node com NestEstava com C# no projeto passado, e também entrei em contrato com React, mongo..
+00:22:55	João Lucas Stephan:	Os padrões de projeto são amplamente usados no frontend também. Um exemplo é a lib RXJs, que usa muito o padrão observer
+00:22:55	Rodrigo de Almeida Francisco:	Eu trabalho com C#, SQL, Xamarin...
+00:23:05	Francisco Ribeiro de Oliveira:	Alfredo, usando Nest em projetos de qual tamanho?
+00:23:33	hugo sampaio:	se não tiver C nessa lista, essa pesquisa é pra programas web hahahaha
+00:23:39	Dayana de Paula Oliveira:	Eu tive dificuldade por não trabalhar com Java
+00:23:40	João Paulo B. Faria:	Foi bom. Simples.
+00:23:41	ALFREDO DE CARVALHO NETO:	Estou num portal do Shell Box, relativamento médio
+00:23:49	Thiago Rodrigues:	o design patterns em si q é enjoado
+00:23:50	AUGUSTO CASTRO:	Achei de boa, já mexo com Java.
+00:23:50	William Teixeira:	Apanhei, e acabei errando 2 questões
+00:23:51	João Paulo B. Faria:	A solução era rápida
+00:23:55	João Paulo B. Faria:	Decorator
+00:23:55	Thomaz Candido:	Tive dificuldades, por não usar a programação no dia a dia
+00:23:56	João Lucas Stephan:	Foi bem tranquilo o desafio
+00:23:58	Melissa Trofino Vieira de Santana:	Achei que complicou a vida de quem não usa Java rsEu tentei fazer sem baixar o código
+00:24:01	Bruno Alves dos Santos:	Utilizando atualmente .NET Core (C#), React (Javascript) e SQL basicamente.Eu achei o trabalho simples, foi bom o desafio
+00:24:01	ALFREDO DE CARVALHO NETO:	Decorator
+00:24:03	Carlos Eduardo Jeronimo:	Complexo não, muito bom.
+00:24:04	Helenira Ferro:	Eu tive dificuldade, por não trabalhar com java
+00:24:04	Edson Candido:	para imque nunca usei java consegui rodas e entendi qual o padrão
+00:24:05	AUGUSTO CASTRO:	Padrçao decorator.
+00:24:05	Raphael Fontoura:	No início fiquei confuso com o trabalho prático.. mas comecei a ver com mais calma e consegui pegar a ideia.
+00:24:06	Rodrigo de Almeida Francisco:	como não trabalho com Java ficou um pouco complicado rsss mas deu para entender depois
+00:24:06	Danilo Sérgio Vieira:	Fiquei meio perdido
+00:24:08	Antonio José de Medeiros Neto:	Sim Decorator
+00:24:09	Alexandre Rodrigues:	Sim. Tranquilo
+00:24:11	Ronivaldo Castro:	Achei algumas coisas bem complexas para o primeiro momento, tal como selecionar uma arquitetura ideal para determinado problema
+00:24:11	Alexandre Rodrigues:	Decorator
+00:24:13	giuliano vimieiro:	Eu consegui fazer, fiz outro projeto e deu tudo certo
+00:24:13	Luciano Costa:	N]ao sou do java, mas deu para responder tranquilo.
+00:24:15	Yuri Costa:	Eu tive dificuldade pra entender como aplicar o padrão no codigo
+00:24:15	William Teixeira:	usei o decorator também, mas pelo jeito da maneira errada
+00:24:15	Antonio Resende:	Na minha cabeça eu deveria usar o builder, mas acabou que ele não foi a solução.
+00:24:15	João Antonio Paludo Silveira:	Gostei bastante porque é bem mais prático do que as questões de múltipla escolha
+00:24:31	Antony Zietz:	top
+00:24:35	Yuri Costa:	as questoes de marcar achei bem confusas, tem afirmações q induzem ao erro
+00:24:38	Francisco Ribeiro de Oliveira:	ficou estranho a utilização do decorator
+00:24:40	Melissa Trofino Vieira de Santana:	acho que poderia ter sido disponibilizado em alguma plataforma, tipo um "fidlle"
+00:24:40	Mariane Medeiros:	Achei bacana, fez pensar bastante, ajudou a fixar conteúdo
+00:24:42	Caio Pierno:	Eu apanhei um pouco porque apesar de trabalhar com desenvolvimento de software e conhecer um pouco, não sou desenvolvedor.. rs
+00:24:47	William Teixeira:	poderia disponibilizar o código corrigido pra nós
+00:24:58	João Paulo B. Faria:	Achei o desafio do módulo com perguntas mais estranhas. Algumas questões tinham respostas abertas.
+00:24:59	Rodolfo Passos:	Eu nem tentei fazer. Não sou desenvolvedor, e não sei como fazer para corrigir módulos e códigos...
+00:25:01	João Paulo B. Faria:	Javascript
+00:25:01	Edson Candido:	descobri que era o decorator, porém tive que ver bastante material a mais para entender o padrão e as sintaxes do proprio Java
+00:25:03	João Paulo B. Faria:	Java
+00:25:04	Francisco Ribeiro de Oliveira:	JS
+00:25:05	William Teixeira:	js,
+00:25:06	João Lucas Stephan:	Java, C e Python
+00:25:07	Antony Zietz:	javascript
+00:25:07	AUGUSTO CASTRO:	Java, Python e Go.
+00:25:07	Fábio de Oliveira Sales:	phyton
+00:25:07	João Paulo B. Faria:	Phyton
+00:25:08	Everton Bezerra:	nodejs
+00:25:08	Mariane Medeiros:	Python
+00:25:09	Cesar Fonseca:	Javascript, Java e python
+00:25:09	Raphael Fontoura:	Java, C# com .NET, e Python
+00:25:10	Thiago Veloso Pereira:	python, JS, Java
+00:25:10	João Antonio Paludo Silveira:	Python
+00:25:12	Fábio de Oliveira Sales:	nodejs
+00:25:12	Fábio Badaró:	Java, JS e Python
+00:25:13	Alexandre Ricardo Tuti:	java
+00:25:13	Everton Bezerra:	Python
+00:25:13	Jamesson Faria:	Java, Python
+00:25:13	Bruno Alves dos Santos:	Javascript, C# e Python
+00:25:13	Raphael Fontoura:	ops... Javascript
+00:25:14	Antony Zietz:	python
+00:25:14	Paulo Carlos Teixeira:	PythonNodeJSJava
+00:25:14	Guionardo Furlan:	js, python
+00:25:14	Carlos Eduardo Jeronimo:	C#, Python e JS
+00:25:15	Antonio José de Medeiros Neto:	C#
+00:25:16	Ravel da Costa Melo:	Java, C#, Node
+00:25:17	Rodrigo de Almeida Francisco:	Java, JS e C#
+00:25:18	Erion Barasuol:	python, js
+00:25:19	Ugo Cavalcanti:	Python
+Java
+JS
+00:25:19	Edson Candido:	JS, Python
+00:25:19	Aureo Lisboa:	Como não uso java tive dificuldades, mas consegui fazer depois de apanhar um pouquinho
+00:25:19	Ricardo de Oliveira Cruz Junior:	Python, Java Javascript
+00:25:19	Antonio Resende:	Javascript, Python, PHP
+00:25:19	Jamesson Faria:	JavaScropt
+00:25:20	Ronivaldo Castro:	Java, C# e JS
+00:25:21	Antonio José de Medeiros Neto:	Angular
+00:25:21	Mateus Carvalho:	JavaScrip e PHP
+00:25:22	Caio Pierno:	Conceitualmente consegui entender bem e fui bem nas perguntas.
+00:25:22	Melissa Trofino Vieira de Santana:	javascript python
+00:25:23	Pedro Pellizzaro:	javascript (node), java e python
+00:25:25	Thomaz Candido:	Python,C#,JS
+00:25:26	Sandro Marcos de Souza:	Go, react,e angular
+00:25:26	Carlos Augusto Almeida Martins:	GO, Java, C#e phyton
+00:25:26	Alexandre Rodrigues:	Java, C# e Phyton
+00:25:27	hugo sampaio:	C/C++, Java, python
+00:25:28	giuliano vimieiro:	JavaPythonKotlin
+00:25:29	Alan Nunes:	java, python e javascript
+00:25:29	Marco Moraes:	Python
+00:25:30	Caio Pierno:	Javascript
+00:25:31	AUGUSTO CASTRO:	Java é top.
+00:25:31	Cesar Fonseca:	Acertei ahsduahs
+00:25:36	Fábio Badaró:	Caramba acertei
+00:25:38	Fábio de Oliveira Sales:	kotlin
+00:25:39	Fábio de Oliveira Sales:	kkk
+00:25:51	Antony Zietz:	COBOL !
+00:25:52	Weslley Silva:	Javascript <3
+00:25:53	hugo sampaio:	HTML como linguagem de programação?!?
+00:25:55	Antony Zietz:	Pascal
+00:25:56	hugo sampaio:	tem coisa errada ai
+00:26:00	Antony Zietz:	Delphi
+00:26:02	Raphael Fontoura:	Achei que C# teria crescido.
+00:26:03	William Teixeira:	java é massa só não estou acostumado
+00:26:13	Ronivaldo Castro:	Bora conhecer Kotlin galera
+00:26:29	Sandro Marcos de Souza:	Acho que em BH C# é mais forte do que java, depende da região
+00:26:33	William Teixeira:	viés que fala né
+00:26:40	João Lucas Stephan:	https://www.tiobe.com/tiobe-index/
+00:26:50	Ugo Cavalcanti:	C# nao ta no nivel de Java AINDA....
+00:26:55	Carlos Eduardo Facadio Campello:	Kotlin deve pagar mais de 50k/mês.
+00:26:57	João Lucas Stephan:	esse órgão é um dos mais reconhecidos para classificar as linguagens mais utilizadas
+00:26:59	Paulo Stradioti:	JetBrains tamb'em faz o Resharper que 'e mto usado em .net
+00:27:07	Paulo Stradioti:	Tem IDEs pra Python, Go, C++
+00:27:09	William Teixeira:	rs
+00:27:12	Antony Zietz:	Html e css é linguagem de programação?
+00:27:13	Melissa Trofino Vieira de Santana:	comparar SQL com o resto não faz sentido tb
+00:27:18	Raphael Fontoura:	SQL tmb...
+00:27:21	Pedro Pellizzaro:	C# >>>>>>>>>>>>>> Java
+00:27:31	Antony Zietz:	Java >>>>> C#
+00:27:37	Ugo Cavalcanti:	UHauahuahua
+00:27:42	Pedro Pellizzaro:	kkkkkkk
+00:27:44	hugo sampaio:	qro um cursão de C#, tipo o do oracle q comentaral
+00:27:44	Ugo Cavalcanti:	que comecem os jogos!!
+00:27:46	Carlos Adriano Beserra da Silva:	Aceitar que o Java é bastante utilizado é uma opção também. C# também é uma ótima opção mas é uma linguagem mais nova.
+00:28:03	João Lucas Stephan:	Boa é a linguagem que paga seu salário
+00:28:06	Pedro Pellizzaro:	boatos que java dá cancer
+00:28:11	Fábio Badaró:	Jupiter Notebook lá
+00:28:15	João Lucas Stephan:	se tiver que trabalhar com assembly ta valendo
+00:28:24	Antonio Resende:	Frameworks mais usados: https://hotframeworks.com/
+00:29:35	Carlos Adriano Beserra da Silva:	Acessa o TIOBE e lá não vai ter esse viés. Pronto.
+00:29:50	Lucas Medeiros:	Qual será o conteúdo dessa aula?
+00:31:07	William Teixeira:	Podia incluir umas aulas bonus sobre uns padrões para paradigma funcional
+00:31:41	Antonio Resende:	Academicamente, pensamos no reuso, criar componentes reutilizáveis, mas na empresa eles querem a resposta para o problema específico e o mais rápido possível, sem se preocupar com a generalização.
+00:31:54	Raphael Fontoura:	padronite.. não era o que foi citado nas aulas??
+00:32:45	Prof. Odivaney Pedro Ramos:	Pessoal boa noite, aqui é o tutor Odivaney. Se tiverem perguntas não respondidas no Q&A, enviem novamente por favor. Algumas perguntas aparentemente não estão aparecendo para mim.
+00:34:37	Paulo Carlos Teixeira:	Codificador limpo prega isso. E eu concordo também.
+00:35:22	Carlos Adriano Beserra da Silva:	Còdigo Limpo do Uncle Bob instiga a repensar o comentário. Comentário é inespressividade do programador. Ele não conseguiu expressar no código.
+00:35:47	João Lucas Stephan:	Código comentado é código mentiroso
+00:35:59	Rodolfo Passos:	Na boa, isso é um preciosismo muito grande....
+00:36:13	Carlos Adriano Beserra da Silva:	Acho que há algumas exceções, mas em geral não é bom comentário pra explicar o código.
+00:37:24	Carlos Adriano Beserra da Silva:	Acho que não é preciosismo. Não devemos ser radicais, só acho que o comentário em código não deveria ser uma MÀXIMA num bom código.
+00:37:25	ELTON VIEIRA COSTA:	O próprio código deve ser auto explicativo, não é Carlos. Concordo com você.
+00:37:25	Jonatas Luis:	Discordo, nem tudo é passível de ficar sem comentário(a maioria das coisas sim), mas existem complexidades que podem ser necessárias a utilização de comentários sim, não precisa ser dogmático em tudo, você precisa ter consciência de que é um recurso pra ser usado em último caso, mas ele existe e tem sua utilidade sim
+00:37:42	Carlos Adriano Beserra da Silva:	Sim, o mais legível e autoexplicativo possivel
+00:37:51	Carlos Adriano Beserra da Silva:	se não deu pra ser, talvez mereço um refactoring
+00:38:17	Carlos Adriano Beserra da Silva:	Jonatas, há algumas exceções, mas como falei, não acho que deveria ser uma MÀXIMA
+00:38:25	ELTON VIEIRA COSTA:	isso mesmo
+00:38:46	William Teixeira:	esse ai eu não sei não eim, a quantidade de interfaces vai fazer os cabelos cairem
+00:39:04	Raphael Fontoura:	Mas cuidado. Se vc viu a necessidade de comentar, por ver complexidade na solução, pode ser que a sua análise está falha... talvez precisaria analisar melhor e refatorar o código.
+00:39:22	Carlos Adriano Beserra da Silva:	Exatamente...
+00:39:27	Paulo Carlos Teixeira:	O problema do comentário é que se este código que está tem a explicação, muitas das vezes quando tem alteração de regra, o comentário não sofre alteração. Basear somente no comentário, no que está escrito, pode dizer muitas das vezes menos coisas ou coisas totalmente diferente do que o método faz. Alteram o código, mas não alteram o comentário. Já vi isso.
+00:39:28	Raphael Fontoura:	Falo isso, porque já passei por isso tmb...
+00:39:36	William Teixeira:	já vi em algum lugar que "toda classe deve ser interfaceada", é meio que este principio ai (interface segregation).
+00:40:02	Jonatas Luis:	na verdade não, segregação de interface é outra coisa
+00:40:07	Carlos Adriano Beserra da Silva:	O método faz 10 coisas, logico que vai precisar de comentário,. Mas ele deveria fazer uma coisa.
+00:40:14	Yuri Costa:	As vezes o código tem muita regra de negócio específica, mts detalhes, condilções, etc. Nesse caso eu costumo comentar, porque não é tão trivial de entender o que foi impelementado sentido 
+00:40:39	Jonatas Luis:	é você não obrigar uma classe implementar uma interface sem necessidade, você ter interfaces pequenas e específicas para que seu uso faça sentido e seja obedecida a regra "é um"
+00:41:02	ELTON VIEIRA COSTA:	Carlos, tipo o botão "Gravar" do pedido, que também imprime o pedido kkkkk
+00:41:02	Bernardo Nascimento:	Pelo o que eu lembro da parte de comentários no livro do Clean Code... ele fala pra evitar, mas existem casos que um método pode fazer, seilá, um cálculo mais complexo e ai colocar um comentário pode ser interessante
+00:41:11	Carlos Adriano Beserra da Silva:	Yuri, que tá o problema, você deveria separar em mais métodos
+00:41:23	Angela Crepaldi:	Poderia resolver código complicado fazendo um link ou rastreamento com requisitos. Aí deixa o requisito explicar.
+00:41:34	Carlos Adriano Beserra da Silva:	Bernando, por isso falamos várias vezes que há exceções
+00:41:39	Bernardo Nascimento:	sim sim
+00:41:46	João Lucas Stephan:	Se o método não é tão trivial de se entender, é porque o código não ta limpo. Tem que refatorar.
+00:42:24	Raphael Fontoura:	tranquilo
+00:42:27	João Paulo B. Faria:	Tudo tranquilo!
+00:42:27	Carlos Adriano Beserra da Silva:	Sim, está muito bom
+00:42:28	giuliano vimieiro:	tranquis
+00:42:28	Paulo Carlos Teixeira:	Tudo certo
+00:42:28	Bruno Alves dos Santos:	Tá sim! aula tá tranquila
+00:42:29	Carlos Eduardo Jeronimo:	tranquilo!
+00:42:30	Mariane Medeiros:	jóia!
+00:42:33	Antonio José de Medeiros Neto:	sim tranquilo
+00:42:39	Jonatas Luis:	exatamente, não é proibido o uso, é uma má prática ficar usando de forma desnecessária, e muitas vezes é necessário por implementação de código ruim, mas é um recurso que pode ser usado em situações específicas sim... problema que existem pessoas que ainda não tem a sensibilidade pra fazer a análise da situação, leem que devem evitar comentários e tomam aquilo como verdade absoluta para todos os tipos de situações, o que é algo errado
+00:42:47	Wesley Santos:	Sim, parabéns pela boa didática. 
+00:42:54	Jonatas Luis:	é a velha máxima "toda generalização é burra"
+00:43:21	William Teixeira:	Seria possível disponibilizar o codigo implementado  do projeto do Trabalho Prático do Módulo 3
+00:43:52	Lilian Sousa:	Fico em dúvida se as classes de serviço que vejo comumente nessas aplicações REST seguem o princípio SOLID. Uma classe de serviço que é responsável por todo o CRUD.
+00:44:01	Carlos Adriano Beserra da Silva:	Sempre há exceções. O problema é um código cheio de comentário tentando explicar o monstro que você fez. Um método com 15 responsabilidades. Super sujo e dificil de entender e manter. Esse é o princípio. Não é uma proibição a comentários. Mas um incentivo a não usar de forma irresponsável.
+00:44:25	Lucas Simões:	Toda generalização é burra é uma generalização também rs.
+00:44:29	Carlos Adriano Beserra da Silva:	Comentário é a tentativa de explicação de um código ruim, que merecia refatoração. E claro, há exceções.
+00:44:30	Felipe de Melo Sbragia:	Resumindo: "comente com moderação" rs
+00:44:50	Felipe de Melo Sbragia:	Carlos, que medo de trabalhar na sua empresa rs
+00:45:04	Carlos Adriano Beserra da Silva:	Nada cara
+00:45:10	Carlos Adriano Beserra da Silva:	Não tem que ter medo
+00:45:21	Carlos Adriano Beserra da Silva:	só prefira legibilidade à comentários
+00:45:25	Felipe de Melo Sbragia:	kkkkk
+00:45:26	Felipe de Melo Sbragia:	ok
+00:45:38	Carlos Adriano Beserra da Silva:	Isso não tem a ver com minha empresa, ou  onde trabalho. Tem a ver com o que eu estudo de engenharia de software
+00:45:42	Mateus Carvalho:	LARAVEL
+00:45:42	Carlos Adriano Beserra da Silva:	não só eu como outros aqui
+00:45:50	João Lucas Stephan:	concordo demais Carlos
+00:46:17	Felipe de Melo Sbragia:	Sim sim... mas programar na vida real nem sempre é o conto de fadas que a literatura planeja
+00:46:17	Lucas Simões:	Felipe, trabalhei em diferentes empresas e é bem comum o pensamento de que “prefira legibilidade à comentários”. É mais sobre minaste do que sobre empresas e metodologias
+00:46:29	Jonatas Luis:	resumindo: estude bastante OO, SOLID, Design Patterns, e com uma base boa disso você conseguirá fazer bons códigos, e SE SURGIR a necessidade de usar um comentário use, 
+00:46:30	Lucas Simões:	mindset*
+00:46:39	Daivid Paulo:	em praticamente tudo pode se usar a técnica do Jsonx, vamos por parte kkk pegar um cadê grande mas ainvai tirando por partes , migrando pra uma nova estrutura mais segregada.
+00:47:04	Daivid Paulo:	#codigo grande
+00:47:14	Carlos Adriano Beserra da Silva:	Eu trabalhei no Ifood até a semana passada. Lá não era literatura, lá era vida real. Infra pra manter milhões de pedidos / mês. E a preocupação de ter um código manutenível. Então isso não é conto de fadas.
+00:47:16	Rodolfo Passos:	Puristas vs práticos... 
+00:47:24	Carlos Adriano Beserra da Silva:	Também não é verdade absoluta
+00:47:32	Carlos Adriano Beserra da Silva:	é apenas uma escola de pensamento como diz Uncle Bob
+00:48:03	Daivid Paulo:	verdade na prática tem suas diferenças em relação ao by book
+00:48:43	Carlos Adriano Beserra da Silva:	Ao inves de "Puristas vs práticos" prefiro o "modo consciente"
+00:48:51	Carlos Adriano Beserra da Silva:	pensando na equipe, na manutenção
+00:48:52	Daivid Paulo:	o desafio eh fazer a melhoria e as evoluções do legado mantando o serviço no ar hehe
+00:49:09	Rodolfo Passos:	Tudo que será falado nesse modulo é ou está diretamente ligado à codificação?
+00:49:32	Raphael Fontoura:	sim
+00:49:32	Mariane Medeiros:	sim
+00:49:33	Ugo Cavalcanti:	ta blz
+00:49:33	Jamesson Faria:	sim
+00:49:34	Sandro Marcos de Souza:	ok
+00:49:34	João Paulo B. Faria:	tranquilo
+00:49:34	Fábio Badaró:	Sim
+00:49:36	William Teixeira:	sim
+00:49:36	Weslley Silva:	Tudo certo
+00:49:37	Jonatas Luis:	sim
+00:49:37	Thomaz Candido:	sim
+00:49:38	Antonio José de Medeiros Neto:	sim
+00:49:39	Ugo Cavalcanti:	ta show
+00:49:39	Éverton Nogueira Pereira:	Ta bacana
+00:49:39	Jamesson Faria:	show
+00:49:42	Carlos Eduardo Jeronimo:	sim, ótimo!
+00:49:50	Ronivaldo Castro:	Android Studio, show de bola
+00:49:51	Ronivaldo Castro:	rsrs
+00:50:05	Jamesson Faria:	usando gererics
+00:50:13	Darcio Cantelli:	Já foi passado a lista de presença ? Eu precisei sair e voltei
+00:50:32	Mauricio Trindade:	nop
+00:50:42	Darcio Cantelli:	Obrigado
+00:52:12	Rodolfo Passos:	Vagner, tudo que será falado nesse modulo é ou está diretamente ligado à codificação?Outra pergunta, um arquiteto de software precisa necessariamente codificar? Ou melhor, faz parte do trabalho do arquiteto codificar, criar classes, etc e etc?
+00:52:50	Alissar Moussa:	Tenho a mesma dúvida que o Rodolfo
+00:53:11	Jonatas Luis:	Desconfie de um arquiteto que não gosta de codificar ou que não saiba codificar... na maioria das vezes esse profissional é um analista de negócios que em algumas empresas chamam de arquiteto
+00:53:11	Prof. Odivaney Pedro Ramos:	Rodolfo não necessariamente precisa codificar, mas o ideal é sim que conheça os detalhes de cada linguagem, para por exemplo escolher a melhor linguagem para uma arquitetura específica.
+00:53:35	Ugo Cavalcanti:	Eh raro um Arquiteto que nao codifica, cara...
+00:53:48	Gustavo Henrique Soares:	Ugo falou tudo ai
+00:53:50	Gustavo Henrique Soares:	Hehehehehehe
+00:53:56	Raphael Fontoura:	Só uma questão... Java agora pode declarar variáveis com var, assim como no C#??? Qual versão do Java?
+00:54:00	Felipe de Melo Sbragia:	Mais raro ainda um Arquiteto que nunca codificou
+00:54:08	Ugo Cavalcanti:	talvez em uma empresa em que o Arquiteto tenha q dar conta de muitos times, sistemas e tal...
+00:54:09	João Lucas Stephan:	da versão 11 pra frente Raphael
+00:54:11	Paulo Carlos Teixeira:	Sim....pode...a partir da versão 11 eu acho.
+00:54:16	Raphael Fontoura:	vlw
+00:54:17	Gustavo Henrique Soares:	Só da versão 11 pra frente Raphael :(
+00:54:20	Gustavo Henrique Soares:	Kotlin cara
+00:54:21	Rodolfo Passos:	Arquiteto codifica no dia a dia, ou ele foi um desenvolvedor antes e decidir mudar de área?
+00:54:29	Mauricio Trindade:	Um arquiteto pode não codificar mais...mas geralmente ele já codificou....
+00:54:29	Ugo Cavalcanti:	ai ele fica mais no papel especifico... e só dando suporte.
+00:54:31	Rodolfo Passos:	*Decidiu
+00:54:48	Rodolfo Passos:	Mas isso não é uma regra Mauricio...
+00:54:49	Mauricio Trindade:	ah não ser que não seja um arquiteto de sw...caso seja um arquiteto enterprise....
+00:54:49	Gustavo Henrique Soares:	Comunidade tem dado muito suporte pra backend escrito em Kotlin ultimamente
+00:55:14	Mauricio Trindade:	Sim..não é um regra....mas é o mais comum....
+00:55:15	Ronivaldo Castro:	Kotlin é lindo
+00:55:24	João Lucas Stephan:	mas pessoal, codificar é a melhor parte rsrs
+00:55:38	giuliano vimieiro:	To vendo falar mto bem de Kotlin
+00:55:45	Éverton Nogueira Pereira:	Exatamente kkkk
+00:55:48	Paulo Carlos Teixeira:	Não me vejo sem codificar kkkkkkkkkkkkkkkkkkkkkkkkkkkk
+00:55:50	Rodolfo Passos:	Tenho a impressão que estou fazendo um modulo de programação... Não de arquitetura... Posso até estar falando besteira mas...
+00:56:03	Carlos Adriano Beserra da Silva:	Kotlin + programação reativa (se for necessidade do projeto) é muito massa.
+00:56:17	Rodolfo Passos:	João Lucas, tudo é uma questão de opinião e gosto... 
+00:56:18	João Lucas Stephan:	Não tem como estudar arquitetura de software sem ver programação
+00:56:31	João Lucas Stephan:	se for pra viver em um cenário hipotético...
+00:56:52	João Lucas Stephan:	os desenvolvedores precisam de soluções validadas que funcionam
+00:56:54	Gustavo Henrique Soares:	As frameworks do próprio reactive.io tem dado muito suporte pra linguagem funcional
+00:56:58	Alissar Moussa:	Acho que essa parte é extremamente importante para um arquiteto de software.
+00:57:02	Rodolfo Passos:	Vc é desenvolvedor... Eu não... 
+00:57:05	Gustavo Henrique Soares:	O RxJava é bacana, mas é muito verboso…
+00:57:05	Ronivaldo Castro:	É verboso então vai pra kotlin
+00:57:20	Gustavo Henrique Soares:	O próprio java em si :’(
+00:57:29	Ronivaldo Castro:	Coroutines supera o RXJava
+00:57:30	Ugo Cavalcanti:	kotlin eh verboso?
+00:57:38	João Lucas Stephan:	Eu acho que ir pra arquitetura sem desenvolver pular etapas demais... minha opinião, claro
+00:57:38	Ronivaldo Castro:	Flow então nem se fala
+00:57:42	Gustavo Henrique Soares:	Não ugo
+00:57:52	Ronivaldo Castro:	não o Kotlin veio pra resolver o problema de verbosidade do Java
+00:57:53	Gustavo Henrique Soares:	Longe do kotlin ser verboso hehehe
+00:58:04	Antonio Resende:	Por que não criar um método DeleteWithConfirmation( ) além do DeleteWithoutconfirmation( ) ?
+00:58:06	Ronivaldo Castro:	mandei a mensagem em cima da frase do Vagner
+00:58:07	Carlos Adriano Beserra da Silva:	Java tem se tornado menos verboso a partir do Java 8 com streams, interfaces funcionais, etc. Mas Kotlin ainda consegue ser menos verboso que o Java.
+00:58:09	Gustavo Henrique Soares:	Rodolfo, aproveitando essas ondas de bootcamps ofertadas pelo IGTI
+00:58:19	Paulo Carlos Teixeira:	Rodolfo, se você quer olhar arquitetura de sistemas mas sem programação, talvez seja um outro ponto de vista que seria o ideal no seu caso. Tipo, arquitetura em questão de Devops, Cloud, AWS e por ai vai.
+00:58:21	Gustavo Henrique Soares:	Talvez fosse bacana procurar bootcamps de desenvolvimento
+00:58:28	Ugo Cavalcanti:	Comecei um curso da Udemy de Kotlin.. mas nao cheguei nem a metade. Tive q sair e correr pra aprender Node e tal
+00:58:35	Ugo Cavalcanti:	mas tava bacana
+00:59:10	Allef Gomes:	Manda o link do curso Ugo :)
+00:59:18	Lucas Fernando Pontes Castro:	Concordo com o João paulo. precisa saber o contexto da onde será utilizado o que foi planejado pela equipe de arquitetura
+00:59:23	João Lucas Stephan:	No meu ponto de vista, pra arquitetar software, você precisa entender os problemas em que sua arquitetura propõe a resolver, e não da pra fazer isso vivendo apenas em um cenário hipotético
+00:59:35	Tiago Mesquita:	Muito bom o Código, bem claro!
+00:59:44	Gustavo Henrique Soares:	Concordo João
+00:59:53	Alissar Moussa:	Sim, o exemplo tá ótimo
+01:00:01	Alissar Moussa:	E concordo com o João também
+01:00:08	Tiago Mesquita:	Padrão deixa bem mais limpo! muito top!
+01:00:12	Gustavo Henrique Soares:	Muito arquiteto vem com arquitetura bala de prata e acaba utilizando muita arquitetura que trabalha bem em larga escalabilidade pra projetos pequenos
+01:00:21	Ugo Cavalcanti:	Cara... Fundamentos ne....
+
+https://www.udemy.com/course/curso-kotlin-pt/
+01:00:25	Antonio Resende:	Cuidado com o Padronite.
+01:00:29	Gustavo Henrique Soares:	To pegando muito legado assim
+01:00:32	Allef Gomes:	Valeu Ugo
+01:00:38	Gustavo Henrique Soares:	Idéias boas, paradigmas bons, mas fundamento 0
+01:00:39	Gustavo Henrique Soares:	hehehehehe
+01:01:55	Monitor Gabriel IGTI:	A enquete já está disponível! Ficará aberta das até 22:00. Você pode acessá-la pelo link: https://online.igti.com.br/courses/3209/quizzes/32047 :D
+01:02:04	Melissa Trofino Vieira de Santana:	maior parte dos códigos que vejo é um monte de interface que criaram por criar, com trocentos métodos kkk
+01:02:16	Ugo Cavalcanti:	Cara... vcs falando ai que gostam de programar. Eh meu caso. Mas digo logo: cada vez q vc "sobe" na carreira, vc programa menos.
+Entao... já vão logo se decidindo aí... se querem programar ou ganhar mais dinheiro =D
+01:02:33	Pedro Farnetani de Almeida:	onde ele mandou?
+01:02:37	Monitor Gabriel IGTI:	A enquete já está disponível! Ficará aberta das até 22:00. Você pode acessá-la pelo link: https://online.igti.com.br/courses/3209/quizzes/32047 :D
+01:02:49	João Lucas Stephan:	Falou e disse Ugo kkkkk
+01:02:53	Monitor Gabriel IGTI:	A enquete já está disponível! Ficará aberta das até 22:00. Você pode acessá-la pelo link: https://online.igti.com.br/courses/3209/quizzes/32047 :D
+01:03:17	Monitor Gabriel IGTI:	Vou deixar o chat bloqueado por alguns minutos, logo desbloqueio novamente. :D
+01:07:51	João Lucas Stephan:	Odivaney ta por aí?
+01:08:21	Monitor Gabriel IGTI:	A enquete já está disponível! Ficará aberta das até 22:00. Você pode acessá-la pelo link: https://online.igti.com.br/courses/3209/quizzes/32047 :D
+01:08:22	Gustavo Henrique Soares:	Professor, pode mandar novamente aqui por favor?
+01:08:26	Éverton Nogueira Pereira:	Tudo certo
+01:08:27	Allef Gomes:	Cara, o Ugo falou tudo
+01:08:30	Gustavo Henrique Soares:	Acabei não localizando a chamada
+01:08:32	Jamesson Faria:	tudo ok
+01:08:41	Monitor Gabriel IGTI:	A enquete já está disponível! Ficará aberta das até 22:00. Você pode acessá-la pelo link: https://online.igti.com.br/courses/3209/quizzes/32047 :D
+01:08:46	Allef Gomes:	Atualmente passo 4h programando por dia, mais ou menos.
+01:08:56	Ravel da Costa Melo:	seria bom também usar o exemplo da própria asaideira
+01:09:02	Ravel da Costa Melo:	vi uma galera com dificuldade
+01:09:11	Gustavo Henrique Soares:	Gabriel, pode me passar por favor o link de chamada?
+01:09:13	Paulo Carlos Teixeira:	ok
+01:09:16	Alissar Moussa:	É verdade
+01:09:22	João Lucas Stephan:	a tendência é diminuir mais ainda Allef...quanto mais vc sobe de cargo, mas interface vc tem que fazer com outras áreas/pessoas, e com isso, menos vc programatem dias que rola reunião o dia inteiro
+01:09:23	Paulo Carlos Teixeira:	https://online.igti.com.br/courses/3209/quizzes/32047
+01:09:23	Monitor Gabriel IGTI:	A enquete já está disponível! Ficará aberta das até 22:00. Você pode acessá-la pelo link: https://online.igti.com.br/courses/3209/quizzes/32047 :D
+01:09:27	Gustavo Henrique Soares:	A enquete é a chamada?
+01:09:31	Ugo Cavalcanti:	Jr e Pl... eh programação loka! Chegando no Sr... ja começa uma penca de reunião. Mas ainda programa e tal. Aí o especialista danou-se.... ja quase nao programa. Idem pra arquiteto... e se tiver q dar suporte a muitos times... adeus programacao kkkk
+01:09:32	Gustavo Henrique Soares:	Hehehehehe
+01:09:33	Melissa Trofino Vieira de Santana:	tem muita conversa no chat hoje, está atrapalhando o colega achar o link
+01:09:49	Melissa Trofino Vieira de Santana:	Sim a enquete é a chamada
+01:10:02	Gustavo Henrique Soares:	Ah, obrigado melissa :)
+01:10:14	Monitor Gabriel IGTI:	A enquete já está disponível! Ficará aberta das até 22:00. Você pode acessá-la pelo link: https://online.igti.com.br/courses/3209/quizzes/32047 :D
+01:10:29	Melissa Trofino Vieira de Santana:	qualquer resposta vale, Gustavo :)
+01:11:06	Carlos Adriano Beserra da Silva:	acho que estamos conversando algo pertinente ao assunto. Então é válido. Ruim é quanto há um monte de conversa sem sentido ou sem relação com o assunto.
+01:11:23	Carlos Adriano Beserra da Silva:	Se servir pra crescermos juntos essa discussão, acho válido.
+01:11:37	João Lucas Stephan:	Sem falar que o chat ficou bloqueado por um tempo
+01:12:45	Ugo Cavalcanti:	O Arquiteto de Software tem q bater o olho nesses códigos.... e captar os padrões, captar os conceitos de SOLID, etc.... 
+
+Se o cara nao programa... ele perde esse feeling
+01:12:51	Gustavo Henrique Soares:	Sim sim Carlos, eu que acabei não me ligando =P
+01:13:08	Carlos Adriano Beserra da Silva:	Mas conseguiu Gustavo?
+01:13:16	William Teixeira:	Agora sim entendi, pra mim não tava fazendo sentido algum ter essa quantidade de métodos e usar o decorator. rs
+01:13:17	Gustavo Henrique Soares:	Consegui sim mestre, obrigado :)
+01:13:27	Carlos Adriano Beserra da Silva:	que bom.
+01:14:43	Antonio Resende:	Mas isto vai explodir as classes. Se um sistema grande teria 200 classes, vai passar para 400.
+01:15:11	Carlos Adriano Beserra da Silva:	Ai talvez seja hora de quebrar seu monstro monolitico
+01:15:31	Antonio Resende:	Acredito que a curva de aprendizado deste sistema com muitas classes seriam enorme para quem chegou no projeto.
+01:15:33	Carlos Adriano Beserra da Silva:	Talvez...
+01:15:43	Melissa Trofino Vieira de Santana:	Antonio, aí entra o que é melhor... rs muitas classes com poucas linhas, ou poucas classes gigantes?
+01:16:13	giuliano vimieiro:	Boa Melissa
+01:16:19	Antonio Resende:	Verdade Melissa. Porém, decidir este trade-off é complicado.
+01:16:40	hugo sampaio:	vai ter os diagramas de classes em ambos os casos?
+01:16:48	ALFREDO DE CARVALHO NETO:	Hoje discutimos sobre termos um service q ref. outros dois services.. ou se colocamos este controle na controller...
+01:17:09	Carlos Adriano Beserra da Silva:	Ai entra um dos principios do SOLID. Essas classes gigantes não estariam com responsabilidade demais? Prefiro mais classes do que classes que façam muitas coisas.
+01:17:24	giuliano vimieiro:	2
+01:17:24	Weslley Silva:	Teremos o link dessa apresentação?
+01:17:51	Melissa Trofino Vieira de Santana:	no dia-a-dia, na prática, tenho visto que as interfaces mal planejadas com listas extensas de métodos é mais prejudicialcomeçam a criar métodos até duplicados, por não ter paciência de entender métodos que já existam.lógico que tudo isso vai sendo gerado por outros fatores, falta de padrões em nomenclaturas e etc.
+01:18:13	João Lucas Stephan:	ai o problema é bem mais embaixo rsrsrs
+01:18:24	William Teixeira:	Passa o link novamente
+01:18:25	Suellen Dias:	Cadê o link do GitHub?
+01:18:25	Jonatas Luis:	é  um cenário que tbm daria pra usar a implementação de um Chain of Responsibility
+01:18:27	João Lucas Stephan:	aí n é problema de ter muitas interfaces
+01:18:28	Lilian Sousa:	Alguém tem o link do código?
+01:18:28	William Teixeira:	por favor
+01:18:35	Jamesson Faria:	cade o link ?
+01:18:40	Lucas Duete:	onde que tá o link?
+01:18:40	Jamesson Faria:	ok
+01:18:53	Suellen Dias:	Valeu!!
+01:18:58	Weslley Silva:	Show de bola
+01:19:03	Melissa Trofino Vieira de Santana:	vlww
+01:19:07	Antonio José de Medeiros Neto:	Manda o link aqui no chat
+01:19:08	William Teixeira:	Boa!
+01:19:30	William Teixeira:	Podia passar a resolução do código do trabalho pratico também..
+01:19:31	Melissa Trofino Vieira de Santana:	Muito bom o exemplo!
+01:19:50	Gustavo Henrique Soares:	Show de bola!
+01:20:16	Ugo Cavalcanti:	O que vai determinar muito isso eh o Dominio do negócio, gente. Ter 1 interface para cada acao do CRUD eh uma possibilidade. Mas se o seu dominio, seu problema de negócio nao pedir.... acho q nao vale a pena.
+Se vc vislumbra a possibilidade de varios tipos de Save, de Delete e tal...
+01:20:24	Melissa Trofino Vieira de Santana:	de acordo com o contexto pode ser diferente mesmo...
+01:20:25	Lucas Duete:	link do repositório: https://github.com/vagnerclementino/solid/tree/main/i/java
+01:20:26	Ugo Cavalcanti:	ai tem q segregar desse jeito mesmo
+01:20:44	Ravel da Costa Melo:	acho que poderia tentar explicar o decorator com o exemplo da asaideira
+01:20:52	Ravel da Costa Melo:	tem muita gente com duvida ainda
+01:20:55	Ravel da Costa Melo:	inclusive eu
+01:21:13	Wesley Brito:	excelente exemplo, bem mais concreto do outros q já vi
+01:21:24	Gustavo Henrique Soares:	É bom estressar mais os conceitos do Solid
+01:21:24	Edson Candido:	software que não tem pedido de elhoria, não esta sendo usado rsrsrs
+01:21:24	Guionardo Furlan:	Software é artesanato
+01:21:35	João Lucas Stephan:	se quiserem posso passar um link pro repositório com a minha solução pro Asaideira
+01:21:36	Melissa Trofino Vieira de Santana:	ciclo de vida do software, nasce, cresce e morre
+01:21:43	Guionardo Furlan:	E TI é uma ciência esotérica
+01:21:44	João Lucas Stephan:	se o professor não mostrar a solução
+01:21:48	Paulo Carlos Teixeira:	Atualmente, muitos separam as interfaces por contexto de negócios. Neste caso ai, as interfaces estão separadas por funcionalidades. E que também pode ser uma abordagem boa também.
+01:21:49	Raphael Fontoura:	Por isso o professor do módulo anterior falou que é importante tentar definir o conceito de PRONTO... senão... fica eterno.
+01:22:01	Jamesson Faria:	ciclo de vida, é assim mesmo
+01:22:15	Pedro Pellizzaro:	igual curso que começa e deixa pra lá
+01:22:35	Antonio José de Medeiros Neto:	https://github.com/vagnerclementino/solid/tree/main/i/java
+01:23:21	João Lucas Stephan:	Go é muito bacana
+01:24:24	Raphael Fontoura:	segregação ferrenha de interface...
+01:25:09	Ugo Cavalcanti:	eu tou ficando eh doido com essa historia que linguagem X eh bacana.
+
+Um diz q Go eh top. Outro diz q Python eh que eh NINJA. Aí oto ja diz q Clojure eh topado... Aí o cara sai endoidando q querendo ver tudo. Pira fácil!
+01:25:15	Tiago Mesquita:	Interface implícita do Go me bugou ':)!
+01:26:09	hugo sampaio:	diria q é bom aprender uma linguagem pra chamar de sua e carregar no colo
+01:26:18	hugo sampaio:	o resto vc vai aprendendo com a vida
+01:26:32	João Lucas Stephan:	eu acho melhor aprender os fundamentos
+01:26:45	Prof. Odivaney Pedro Ramos:	Ugo aí que vai entrar a capacidade do arquiteto, saber identificar a melhor para o contexto, considerando: características técnicas, curva de aprendizado, requisitos não funcionais....
+01:26:48	João Lucas Stephan:	bom que vc n vira aqueles caras q defendem linguagem q nem time de futebol kkkkkk
+01:27:06	João Lucas Stephan:	quando vc conhece os fundamentos, a linguagem volta a ser o que ela foi feita pra ser: só a ferramenta
+01:27:14	Tiago Mesquita:	Exatamente
+01:27:16	Tiago Mesquita:	disse tudo
+01:27:34	Ugo Cavalcanti:	Verdade Professor. Mas eh oq eu disse... tem q ter um certo nível de conhecimento eh muitas linguagens para fazer uma avaliação dessa.
+01:27:42	hugo sampaio:	eu sinto q se vc souber os fundamentos mas não tiver a tecnica pra usar esses fundamentos na linguagem, fica meio frágil
+01:27:53	Ugo Cavalcanti:	Ai eh onde entra a parada do Arquite ter mesmo que programar. COnhecer as linguagens de programacao
+01:28:19	Prof. Odivaney Pedro Ramos:	O chat tá bom hoje, haha
+01:28:28	Carlos Adriano Beserra da Silva:	kkkk verdade
+01:28:44	William Teixeira:	Inclusive você podia disponibilizar a resolução do trabalho pratico
+01:28:59	Ugo Cavalcanti:	Eh muito complicado aprender uma linguagem de programação, médio nível, sem trabalhar no dia a dia... sem usar de verdade.
+Fazer um cursinho no udemy... vc aprende agora... e com 2 meses sem ver, nao lembra mais nada
+01:29:44	Carlos Adriano Beserra da Silva:	concordo
+01:29:51	João Lucas Stephan:	Te dar uma dica Ugo!https://betterprogramming.pub/heres-a-list-of-exciting-projects-you-can-build-today-fdddce4fd57c?gi=e43b4e0dc635
+01:29:51	Carlos Adriano Beserra da Silva:	mas é como qualquer linguagem
+01:29:59	Carlos Adriano Beserra da Silva:	não se aprende ingles só lendo uns livros e pronto
+01:30:04	Carlos Adriano Beserra da Silva:	tem que vivenciar a linguagem
+01:30:05	João Lucas Stephan:	pega um projeto e desenvolve com as tecnologias que vc ta estudando
+01:30:09	Carlos Adriano Beserra da Silva:	dentro da sua limitação
+01:30:12	João Lucas Stephan:	nesse link aí tem várias ideias
+01:30:18	João Lucas Stephan:	daí é só implementar
+01:30:29	João Lucas Stephan:	pega a documentação da linguagem/tecnologia, abre no navegador, e manda bala
+01:30:47	João Lucas Stephan:	realmente não tem como aprender sem aplicarse só fizer curso não vai fixar nada
+01:33:54	Rodolfo Passos:	Whip = Chantilly
+01:35:13	João Lucas Stephan:	Ta mostrando o outro projeto
+01:35:18	Weslei Luiz de Paula Pinto:	não está aparecendo 
+01:35:19	Maurilio Macedo:	Tá compartilhando a tela do VS
+01:35:22	Suellen Dias:	a tela que está compartida é a do beverage
+01:35:22	João Lucas Stephan:	Não ta mostrando o Asaideira
+01:35:24	Lilian Sousa:	Não estamos vendo o projeto.
+01:35:28	Allef Gomes:	Tá mostrando o código...
+01:35:29	marcos fabre jr:	ele vai somar os valores dos 3 decorators ?
+01:35:31	Weslei Luiz de Paula Pinto:	está exibindo o código 
+01:35:54	Ugo Cavalcanti:	Para nao endoidar... eu faço o seguinte:
+
+eu tenho uma linguagem OO.. de formação, que eh Java.
+
+E tb uma funcional.... que eh JS, apesar da turma ta virada no Typescript. Mas ainda considero mais funcional.
+
+Pronto. Daí pra frente... eh lucro pra mim. Tenho mt vontade de ver Python. Mas tudo vai depender da demanda, do empregador, etc. Se alguém me pedir pra aprender Go.. eu vou e aprendo. Idem pro resto.
+01:35:58	Maurilio Macedo:	Vc não está compartilhando a tela, só a janela do código...
+01:36:02	Suellen Dias:	prof, tela errada!
+01:36:03	Bruno Alves dos Santos:	Não tá exibindo o asaideira não
+01:36:05	Antonio Resende:	compartilhando a TELA ERRADA
+01:36:31	Antonio Resende:	sim
+01:36:32	Suellen Dias:	Aeeee!
+01:36:34	Éverton Nogueira Pereira:	Agora sim
+01:36:34	Helenira Ferro:	agora sim
+01:36:34	William Teixeira:	sim
+01:36:34	Paulo Carlos Teixeira:	Sim
+01:36:35	Antonio José de Medeiros Neto:	sim
+01:37:36	William Teixeira:	Boa!
+01:38:08	marcos fabre jr:	Como ele somaria os valores de cada acompanhamento a medida que vc vai adicionando?
+01:38:15	Éverton Nogueira Pereira:	Nome da classe mudou
+01:38:17	Éverton Nogueira Pereira:	Tem que renomear
+01:38:22	William Teixeira:	Sugestão: ter essa aula antes do trabalho pratico, só com o vídeo e a apostila não rolou pra mim, e acredito que para ouros também.
+01:38:55	AUGUSTO CASTRO:	Tu chama o método getPreço do super mais o preço do acompanhento.
+01:38:56	Maurilio Macedo:	To nesse barco aí William...
+01:39:01	Lilian Sousa:	Concordo William.
+01:39:17	hugo sampaio:	parece um getPreço "recursivo"
+01:39:23	marcos fabre jr:	aaah top valeu augusto
+01:42:11	Rodrigo Oliveira:	alguém lembra o nome do professor do módulo anterior? o do karoot?
+01:42:16	Prof. Odivaney Pedro Ramos:	Pessoal ao mandarem a mensagem lembrem-se de colocar a mensagem visível para todos.
+01:42:46	João Lucas Stephan:	João Paulo Aramuni, o professor anterior
+01:43:17	Rodrigo Oliveira:	orbgiado
+01:43:20	Prof. Odivaney Pedro Ramos:	https://refactoring.guru/pt-br/design-patterns/decorator
+01:46:08	Antonio Resende:	Boa noite. Obrigado!
+01:46:12	Tiago Mesquita:	Top top top!
+01:46:14	Rodolfo Passos:	Boa noite
+01:46:15	João Paulo B. Faria:	Valeu professor. Obrigado pela aula.
+01:46:15	Melissa Trofino Vieira de Santana:	boa!
+01:46:16	Weslei Luiz de Paula Pinto:	boa noite pessoal
+01:46:16	marcos fabre jr:	bom demaaaais
+01:46:16	Helenira Ferro:	Boa noite, obrigada
+01:46:17	Mariane Medeiros:	Obrigada!
+01:46:17	Jamesson Faria:	boa noite, muito bom
+01:46:18	Jamesson Faria:	abss
+01:46:18	Tiago Mesquita:	Muito boooom!!!!
+01:46:19	Carlos Eduardo Jeronimo:	Obrigado!
+01:46:19	Márcio Rodrigues:	valeu galera, professor .. boa noite
+01:46:19	Bruno Alves dos Santos:	Boa noite pessoal!
+01:46:19	AUGUSTO CASTRO:	Show de bola.
+01:46:21	ALFREDO DE CARVALHO NETO:	Valeus!!
+01:46:22	AUGUSTO CASTRO:	Boa noite.
+01:46:23	João Lucas Stephan:	Valeu professor mt obrigado, excelente aula
+01:46:23	André Luis Teixeira:	boa noite
+01:46:23	Weslei Luiz de Paula Pinto:	muito obrigado professor 
+01:46:24	ALFREDO DE CARVALHO NETO:	ótimo aula
+01:46:24	Melissa Trofino Vieira de Santana:	bom momento pra vcs!
+01:46:24	Rodrigo de Almeida Francisco:	boa noite!
+01:46:24	Aureo Lisboa:	Boa noite
+01:46:26	Maurilio Macedo:	Flw galera...
+01:46:26	Antonio José de Medeiros Neto:	Valeu! Obrigado Boa noite
+01:46:28	Richard Altmayer:	Boa noite a todos!
+01:46:30	Pedro Rigo:	Boa noite!
+01:46:44	Lucas Duete:	boa noite pessoal
+01:46:46	André Luis Teixeira:	Muito bom
+01:46:50	Carlos Adriano Beserra da Silva:	Quero parabenizar o Vagner, muito boa aula
+01:46:53	Rodrigo de Almeida Francisco:	C# rssss
+01:46:53	Suellen Dias:	Ótima aula! Obrigada!
+01:46:54	Pedro Farnetani de Almeida:	boa noite!
+01:47:05	Tiago Mesquita:	Boa noite!!!
+01:47:05	Silvia Schwanz Lucas:	Boa noite
+01:47:06	Melissa Trofino Vieira de Santana:	aí sim, C#!
+01:47:07	giuliano vimieiro:	Bom demais a aula
+01:47:08	Melissa Trofino Vieira de Santana:	flw
+01:47:08	Tiago Mesquita:	Obrigado!!!!
+01:47:09	Allef Gomes:	Boa noite
+01:47:10	William Teixeira:	Obrigado, boa noite a todos!!
+01:47:12	Melissa Trofino Vieira de Santana:	boa noiteee
+01:47:15	Pedro Pellizzaro:	aí sim
+01:47:18	Raphael Fontoura:	excelente.... agradeço muito.
+01:47:20	marcos fabre jr:	usa typescripttt
+01:47:20	Rodrigo Oliveira:	parabéns
+01:47:20	Marcelo Martins:	boa noite
+01:47:20	Pedro Pellizzaro:	boa noite pessoal
+01:47:24	Éverton Nogueira Pereira:	Aula top demais
+01:47:24	Pedro Rigo:	Aula excelente!
+01:47:29	João Lucas Stephan:	Usa Go :P
+01:47:30	Rodrigo de Almeida Francisco:	Valeu Vagner... e boa noite a todos!!
+01:47:31	Alexandre Rodrigues:	Boa noite a todos!
+01:47:35	Rodrigo Oliveira:	melhor aula, de longe
+01:47:49	ALFREDO DE CARVALHO NETO:	estava louco pra ver código kkk
+01:47:51	hugo sampaio:	boa noite pessoar

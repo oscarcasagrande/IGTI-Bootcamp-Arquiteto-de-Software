@@ -1,0 +1,323 @@
+00:01:52	Angela Crepaldi:	galera, fechem o microfone
+00:01:53	Dener Alencar:	Bom momento!
+00:01:53	Rodolfo Menezes:	Boa noite pessoal!
+00:01:54	Ricardo de Oliveira Cruz Junior:	Boa noite pessoal !
+00:02:21	Antony Zietz:	Boa noite
+00:02:31	Helenira Ferro:	Boa Noite
+00:02:38	Mauricio Trindade:	Boa noite!
+00:02:43	João Paulo B. Faria:	Obrigado você professor. Excelentes aulas, as gravadas!
+00:02:47	Dirceu Santana:	Boa noite
+00:02:59	Alissar Moussa:	Boa noite
+00:03:03	Odivaney Pedro:	Pessoal hoje estamos num ambiente um pouquinho diferente. Não teremos o Q&A, mas estarei por aqui acompanhando as dúvidas técnicas. 
+00:03:06	Caio Pierno:	Muito boa mesmo! Parabéns!
+00:03:07	Rodolfo Passos:	Boa noite... ainda bem que resolvi entrar no site um pouco antes... Afinal estava trabalhando e achei que a aula começaria as 21
+00:03:13	João Lucas Stephan:	Albert, mais um bootcamp contigo! Vc é fera demais
+00:03:23	Lucas Duete:	boa noite pessoal
+00:03:25	Fernando Alves:	Prof. Albert, trabalhamos junto na Cast, Fernando Alves
+00:03:56	Sandro de Souza:	Prof Albert, vc está de parabéns, as aulas gravadas foram ótimas e ainda mais no mundo ,net que é a minha área, rsrs
+00:04:36	Rodolfo Passos:	Os outros professores tbem não tinham chroma key
+00:05:06	LUCAS LUIZ DA SANTOS:	Que horas ai professor?
+00:05:16	Rodolfo Passos:	Onde é ai?
+00:05:21	Mauricio Trindade:	opa....já add no linkedin...
+00:05:28	Sandro de Souza:	Você é parente do Igor Tanure?
+00:05:34	Danilo Noqueli:	Boa noite.
+00:05:37	LUCAS LUIZ DA SANTOS:	Estou do lado então em PT
+00:06:13	Alissar Moussa:	Essa aula vai até que horas daí?
+00:07:07	Paulo Ricardo Stradioti:	O que é esse ruído no fundo? Algum mic aberto?
+00:07:14	Vinícius Zanchini:	Tem algum mic aberto
+00:07:22	William Pereira:	é o dele raspando em algo
+00:07:29	Rodrigo de Almeida Francisco:	acho que alguém além do professor deve estar com o MIC aberto
+00:07:31	hugo sampaio:	dve ser o mic do professor batendo a mão
+00:07:33	Paulo Ricardo Stradioti:	ahh deve ser a barba então 🤣
+00:07:39	GIULIANO vimieiro:	aqui ta claro sem microfone
+00:07:46	William Pereira:	é na barba
+00:07:52	Mauricio Trindade:	kkkkk
+00:07:58	Paulo Ricardo Stradioti:	ah relaxa
+00:08:01	Carlos Adriano Beserra da Silva:	Trabalho indiretamente. Na minha antiga equipe fazíamos a entrega desde a arquitetura até o deploy em produção. Mas não tenho papel de arquiteto.
+00:08:10	João Lucas Stephan:	ta atrapalhando não
+00:08:24	Sandro de Souza:	Eu imaginava o cara que definia a estrutura do software, como tecnologias, padrões do projetos, algo de mais a nível de código e não de levantamento de requisitos ou seja documentação
+00:08:27	Ítallo Costa:	O arquiteto de software na minha visão seria a persona que acompanha, projeto soluções
+00:08:44	Ítallo Costa:	ops acompanha e projeta as soluções
+00:08:58	Paulo Ricardo Stradioti:	Eu vejo o arquiteto mais como um guia, alguém que ajuda o time a tomar boas decisões com base nas necessidades do projeto.
+00:09:01	Dayana Oliveira:	Melhorar minhas entregas e ganhar mais conhecimento como DEV
+00:09:02	hugo sampaio:	o arquiteto é o primeiro a não dormir, ele não dorme até pensar no desenho do esqueleto da coisa
+00:09:05	Rodrigo de Almeida Francisco:	Na minha empresa não tem ninguém que conheça o que é o Arquiteto de Software... por isso to estudando...
+00:09:11	William Pereira:	tentar introduzir na minha empresa, pois é meio go horse
+00:09:39	Bruno Alves dos Santos:	Acredito que o papel do arquiteto é a pessoa que se preocupa com a entrega de produtos de qualidade em todo o ciclo de vida do software. Desde requisitos, definição de tecnologias, etc. É uma pessoa com um nível mais "alto nível" do produto.
+00:09:44	GIULIANO vimieiro:	Para mim é o projetista e acompanha a equipe e é um foco central
+00:09:47	Luiz Faria:	Vejo como alguém que projeta soluções técnicas para os problemas mais complexos da companhia e serve de referência técnica pra equipe
+00:10:23	Paulo Carlos Teixeira:	Eu me matriculei para começar a saber realmente o que é arquitetura de Software, e melhorar enquanto developer nas minhas implementações e propor soluções melhores.
+00:10:33	João Lucas Stephan:	Onde eu trabalho, os arquitetos desenvolvem frameworks internos para melhorar a produtividade dos desenvolvedores. Atuam também nas tecnologias, plataformas, cloud, devops...
+00:10:34	Frank George Besen:	é quem define como a solução deve funcionar e depois acompanhar a evolução do que foi definido...
+00:10:44	Thiago Germoliato:	Quem faz o desenho do fluxo do sistema em alto nível e acompanha o andamento para garantir que a execução do que foi projetado está sendo seguida de acordo.
+00:10:49	Andre Laguna Guimarães:	É o responsável pelo desenho da solução de software
+00:10:56	Jamesson Faria:	Para mim o arquiteto de software trabalha para entregar valor aos negócios de empresas, clientes, parceiros e colaboradores. Possui um perfil de liderança.
+00:11:01	Éverton Pereira:	Vejo o arquiteto como uma pessoa que tem conhecimento de diversos padrões e que consegue saber qual a melhor para cada projeto/problema específico
+00:11:35	Carlos Adriano Beserra da Silva:	#gratidão
+00:11:42	Guilherme de Melo:	O arquiteto tem que ser sênior?
+00:13:55	Mauricio Trindade:	Importante o papel dessa pessoa navegar entre o time técnico e time de negócio...
+00:14:32	Ítallo Costa:	eu acho importante saber o que pesquisar
+00:14:34	Rodrigo de Almeida Francisco:	Acho que conhecer tudo, nem tem como... mas ter uma noção pelo menos...
+00:14:36	GUILHERME ALBERTO MOREIRA SANTOS:	saber 100% é impossível, mas pelo menos deve conhecer muito
+00:14:51	Sandro de Souza:	Saber tudo teoricamente é saber nada, prefiro o meio termo e a pessoa saber ouvir os colegas para agregar valor
+00:14:52	Jamesson Faria:	Acredito que ele deve ser generalista, não tem como saber tudo, e ser especialista em algo.
+00:14:54	Guilherme de Melo:	acredito que seja bom ter a base teórica/pratica e algumas referências
+00:14:57	Bruno Alves dos Santos:	O arquiteto não precisa saber tudo tecnicamente de forma aprofundada, mas é necessário ele conhecer a base das tecnologias até para ele ter insumos para tomar decisões arquiteturais
+00:14:59	Alissar Moussa:	Eu vejo que é uma pessoa com mais experiência, mas ninguém nunca vai saber tudo
+00:15:02	Odivaney Pedro:	pessoal basta desabilitar o microfone no canto direito inferior da tela, se apresentem e façam os comentários a respeito.
+00:15:12	Thiago Rodrigues:	Mais do que conhecer, ainda que de forma macro, saber como as tecnologias se integram e completam para chegar a uma solução
+00:15:14	Vinícius Zanchini:	Deve ter uma visão sistêmica genérica
+00:15:16	Ítallo Costa:	a vivência também é importante até para saber fugir das pegadinhas de hype
+00:16:11	Caio Pierno:	Eu trabalhei mais de 15 anos com arquitetura de soluções de infraestrutura e implementação de soluções prontas com maior foco em integração entre soluções. Nos últimos 3 anos passei a exercer o papel de gerente de produto e trabalhar com times de desenvolvimento. Por esse motivo comecei a procurar me desenvolver também em desenvolvimento de software para contribuir cada vez mais com o time. Há 20 anos atrás fiz alguns trabalhos de desenvolvimento desde os tempos do Basic e Clipper, e na minha carreira de infraestrutura usei as habilidade de lógica e linguagens para criar automações, scripts, integrações, porém nunca trabalhei como desenvolvedor de software.
+00:16:26	João Lucas Stephan:	kkkkkk
+00:16:34	Glaucius Pereira Duarte:	Deve ter uma visão global, conhecer o negócio, ter um bom relacionamento com o time de projeto e auxiliar nas definições técnicas
+00:16:36	Victor Teles:	Dentro da empresa que trabalho, o papel de arquiteto é independente de senioridade.
+00:16:57	Ítallo Costa:	travou pra geral?
+00:16:58	Thiago Rodrigues:	travou pra geral?
+00:17:00	Lucas Medeiros:	travou?
+00:17:00	Alissar Moussa:	sim
+00:17:01	João Lucas Stephan:	travou
+00:17:01	Guilherme de Melo:	travou aqui
+00:17:01	rafael hieda:	travou aqui
+00:17:01	Allef Gomes:	Travou
+00:17:01	Lucas Medeiros:	kk
+00:17:01	Lucas Duete:	travou aqui
+00:17:02	Rodrigo de Almeida Francisco:	travou
+00:17:02	Caio Pierno:	Sim
+00:17:03	Carlos Eduardo Jeronimo:	travou?
+00:17:03	Brenner Pacelli:	voltou
+00:17:04	Oscar Casagrande:	voltou
+00:17:04	João Paulo B. Faria:	voltou
+00:17:04	Felipe Osti:	volto
+00:17:04	Bruno Alves dos Santos:	Agora voltou
+00:17:09	Oscar Casagrande:	travou uns 5 segundos
+00:17:12	Jamesson Faria:	travou
+00:17:13	Melissa Trofino Vieira de Santana:	deu uma travada, mas voltou
+00:17:13	Sandro de Souza:	repete professor conexão caiu
+00:17:15	Rodrigo de Almeida Francisco:	volta ai Professor... travou deu vídeo
+00:17:17	Lucas Medeiros:	repete a analogia
+00:17:20	Lucas Duete:	repete prof por favor
+00:17:24	Dayana Oliveira:	Aconteceu comigo justamente isso usa o Observable, fiquei tipo What?
+00:18:24	Bruno Alves dos Santos:	Famoso arquiteto de .ppt
+00:18:38	William Teixeira:	Boa noite!
+00:19:46	William Teixeira:	Alguém sabe se a enquete já foi disponibilizada?
+00:19:53	Ítallo Costa:	Adoro o principio KISS :)
+00:19:55	Dayana Oliveira:	ainda não
+00:20:05	Odivaney Pedro:	Ainda não Ítallo
+00:20:08	William Teixeira:	Obrigado Ítalo
+00:20:15	William Teixeira:	Dayna*
+00:20:22	Ítallo Costa:	mantenha o mais simples possível
+00:20:55	Carlos Adriano Beserra da Silva:	O mais desejável e o desafio é entregar software, que funcione conforme especificado,com bom desempenho, que escale e que seja manutenível. Tá ai o desafio do Arq.
+00:21:38	Dayana Oliveira:	A maior dificuldade que eu vejo e que muitas vezes na empresa temos pessoas que são resistentes a novas tecnologias, os arquitetos passam aperto
+00:24:21	Thiago Rodrigues:	teste
+00:24:24	Bruno Alves dos Santos:	O desafio de comunicação do arquiteto com as pessoas que vejo hoje em dia é que em muitas empresas alocam um arquiteto para vários projetos, nem sobra tempo pro arquiteto acompanhar tudo.
+00:25:00	Mauricio Trindade:	Verdade Bruno....
+00:25:09	Mateus Carvalho:	Verdade demais
+00:25:58	Oseias Bueno:	certíssimo Bruno...
+00:26:04	Mauricio Trindade:	Concordo contigo, e eu passo por isso....o Arquiteto onde trabalho tem um perfil Cross nas squads e é muito difícil se aprofundar em qualquer solução que proponho....
+00:27:16	Hallison Faria:	Na empresa que trabalho também.
+00:27:42	Carlos Adriano Beserra da Silva:	Isso tem a ver com liderança também. Você conquista a confiança das pessoas servindo elas. Vide "O monge e o Executivo".
+00:28:16	Oseias Bueno:	//~/]]
+00:28:18	Oseias Bueno:	]]
+00:28:21	Oseias Bueno:	]
+00:28:25	Oseias Bueno:	]
+00:28:35	Oseias Bueno:	]
+00:28:56	Oseias Bueno:	////////////////////]/
+00:29:09	Rodrigo de Almeida Francisco:	o problema é quanto tem 1 arquiteto para 50 projetos
+00:29:09	Oseias Bueno:	     / 
+00:29:10	Oseias Bueno:	]
+00:29:16	Caio Pierno:	Tem uma questão que uso muito com os executivos para argumentar. Se você quer ir mais rápido vá sozinho, mas se quer ir mais longe não vá sozinho.
+00:29:23	Rodrigo de Almeida Francisco:	quando***
+00:29:25	Antonio Resende:	Um processo de mudança cultural dentro da empresa.
+00:29:27	Dayana Oliveira:	Na minha empresa só tem um rsrsr
+00:29:27	Oseias Bueno:	., klnhbiuytrv4ft5ljkqzx
+00:30:41	Fernando Alves:	Sobre o que o arquiteto faz me lembro da frase do Uncle Bob"O objetivo da arquitetura de software é minimizar os recursos humanos necessários para construir e manter determinado sistema"
+00:31:13	Caio Pierno:	Perfeito!
+00:31:17	Fernando Alves:	Ou seja, ter tempo para viver melhor, jogar xbox e jogar bola.
+00:32:46	Geovani Succi:	#tamojunto rsrs
+00:32:59	Mauricio Trindade:	Te entendo...rs
+00:35:36	Yuri Costa:	eu faço tdd, teste depois do deploy
+00:35:44	João Lucas Stephan:	kkkkkkk
+00:35:51	Lucas Duete:	kkkkkkkkk boa
+00:35:55	Carlos Eduardo Jeronimo:	kkkkk
+00:35:56	Carlos Adriano Beserra da Silva:	Fazer desenho, preparar o software para ser escalável, pensar em fallbacks, pensar em resiliênsia, etc. Muitas vezes sem ser arquitetos lidamos com essas decisões.
+00:35:56	Kevin Allen:	Mas aí, para um arquiteto que não coda, como você lida com a desatualização das tecnologias, frameworks, etc… que estão no dia-a-dia do dev? Acho complicado entender bem da coisa, sem ter praticado
+00:36:01	William Teixeira:	As vezes tenho a sensação que meu time pensa em me matar todo dia.
+00:36:43	Thomaz Candido:	Atuo em um projeto fazendo a adaptação entre dois sistemas ERP diferentes, e praticamente faço toda a parte de documentação para o time de dev e os testes após entrega!
+00:36:48	Caio Pierno:	Pra quem só tem martelo todo problema é prego!
+00:37:46	Yuri Costa:	Mas falando sério agr, lá na empresa a gnt começou a tentar fazer tdd, nem sempre a gnt desenvolve o teste durante o desenvolvimento, às vezes são implementados dps que desenvolvemos a tarefa
+00:38:48	Rodrigo de Almeida Francisco:	atualmente eu estou na equipe de 1 só no Projeto que estou desenvolvendo... então eu tenho que pensar em tudo, e testes é a ultima coisa que vou fazer... pois para o cliente infelizmente a entrega sempre tem que ser pra ontem!
+00:39:49	Hallison Faria:	sim, hoje acho que a maioria das empresas estão preocupadas em entregar.
+00:40:02	Hallison Faria:	E acaba que os testes ficam para depois
+00:40:19	Vinícius Zanchini:	Albert, quais fontes de conhecimento você acha que é melhor pra um dev ser um bom arquiteto?
+00:40:54	Geovani Succi:	meu maior desafio como arquiteto de solução é realmente permear entre negocio e técnico .. uma vez que eu tb sou mto tecnico
+00:43:44	Rodolfo Passos:	Mas veja vc, podemos usar os dois cenários propostos para ver dois diferentes tipos de arquiteto. Um cozinheiro precisa provar a comida e ser técnico para entregar seu produto, já o técnico de futebol não necessariamente precisa saber jogar ou ter jogado futebol para ser um bom técnico. É ai que eu fico me perguntando sobre saber codar ou não, afinal posso delegar papéis e atingir o mesmo resultado no final.
+00:44:27	Antonio Resende:	Albert, você tem algum  ou alguns casos de insucesso como ter pensado numa arquitetura que na prova de conceito mostrou-se inviável e porque foi inviável. Ou a arquitetura estava muito bem planejada, mas a implementação foi muito mal feita. Gosto de aprender com casos de insucessos e suas explicações.
+00:45:04	Angelica de Ribeiro:	Travou
+00:45:06	Lucas Medeiros:	travou? kk
+00:45:07	Fábio de Oliveira Sales:	travou
+00:45:07	Andrew Mak:	caiu
+00:45:08	Allef Gomes:	travou
+00:45:09	Ricardo de Oliveira Cruz Junior:	travou
+00:45:09	Thomaz Candido:	Travou?
+00:45:10	Yuri Costa:	F
+00:45:10	Deivid Willyan Rodrigues Fabiano:	ih travo
+00:45:11	Weslley Silva:	Caiu aqui
+00:45:11	Weslei Luiz de Paula Pinto:	travou 
+00:45:11	Alissar Moussa:	travou
+00:45:14	Weslei Luiz de Paula Pinto:	na questão do
+00:45:24	Alissar Moussa:	kkkkkk
+00:48:50	Kevin Allen:	Puts, identity server v3 documentação horrível kkkk.
+00:49:14	William Teixeira:	Resumindo: o cliente cobra o suporte, o suporte abre a demanda, o dev não entende o que o suporte  pediu, quando eu vou analisar, percebo que o suporte não entendeu o que o cliente pediu, e o dev não quis entender nenhum dos dois lados. Depois de analisar, encaixo a demanda da forma correta e oriento o dev, nesse momento eu sou o carrasco porque passei a demanda. Depois que entregam, eu querendo garantir, testo antes do tester e encontro erros banais.. ness momento eu sou o carrasco porque acabo sendo preciosista..
+00:50:20	Luiz Faria:	Importante que cada caso é um caso, implementamos o Identity Server lá no trabalho e foi sucesso
+00:51:08	Ítallo Costa:	as vezes sou criticado por querer ir para a solução mais simples
+00:51:33	Ítallo Costa:	sempre vem a questão e se isso mudar e bla bla bla
+00:51:34	AUGUSTO DE CASTRO:	Já saiu a enquete?
+00:51:43	Caio Pierno:	Outro ponto que percebo muito são técnicos defendendo uma arquitetura muito robusta e cara para implementar requisitos não funcionais que não foram solicitados
+00:51:49	Odivaney Pedro:	Ainda não Augusto
+00:53:11	William Teixeira:	concordo, tentei, faço mas no final eles geralmente acabam me odiando
+00:53:34	William Teixeira:	é isso mesmo, isso ai, vai embora tranquilíssimo!
+00:53:42	Luiz Faria:	Tô nessa fase de arquiteto super-homem..
+00:54:04	Weslei Luiz de Paula Pinto:	se entrar nessa de ser super homem vc começa a trabalhar 16 ou 18 horas por dia
+00:54:18	Luiz Faria:	Então.. rs
+00:54:21	William Teixeira:	Boa
+00:54:32	Melissa Trofino Vieira de Santana:	mudar a cultura é sempre o mais difícil, mas se conseguir é o que funciona
+00:55:49	Allef Gomes:	Dá pra ir tentando aos poucos. Atualmente estamos adicionando o processo de codereview. Começou com 4 pessoas por 1 semana pra sabermos se daria certo.
+00:56:03	Allef Gomes:	Agora estamos adicionando no resto da equipe
+00:56:40	William Teixeira:	Isso é massa!
+00:56:57	Alissar Moussa:	Descreveu EXATAMENTE o que eu tô trabalhando agora kkkkkkk chocada
+00:57:23	Lucas Duete:	kkkk
+00:59:03	GUSTAVO SEABRA:	Pequenas alterações que vc faz no código pode gerar um ganho enorme ao invés de querer atacar a arquitetura.
+00:59:29	Bruno Alves dos Santos:	Concordo demais Gustavo, muitos problemas de performance que estou atacando hoje em dia é puramente código
+00:59:53	Oscar Casagrande:	Aqui na Fast Shop nós concentramos as PoCs no time de arquitetura, só que estamos fazendo PoC hoje para projetos que devem iniciar nos próximos 4 meses.Projetos que vão começar em até 2 meses nós só garantimos que ninguém tá metendo tecnologia que não pode... temos muito medo dos ninjas que querem usar somente as coisas mais nova, pegamos esses meninos para fazer as PoCs conosco num ambiente de laboratório que temos
+01:00:00	Antony Zietz:	Vai ser 20:00 a enquete?
+01:00:28	Odivaney Pedro:	Daqui a pouquinho Antony
+01:00:39	Antony Zietz:	Link vai sair aqui né?
+01:00:41	GUSTAVO SEABRA:	Bruno, teve um projeto que trabalhei que só de diminuir o objeto de retorno da API já deu um resultado top. kkkkkk
+01:00:41	Antony Zietz:	show
+01:01:07	Odivaney Pedro:	Sim, enviaremos o link e avisaremos a todos.
+01:01:20	Alissar Moussa:	Só não tem a experiência, conhecimento
+01:02:04	Glauber Monitor IGTI:	Boa noite pessoal, tudo bem? Enquete liberada lá no ambiente de ensino. Segue, o link;D 
+
+https://online.igti.com.br/courses/3209/quizzes/32367
+01:02:37	Silvia Schwanz Lucas:	Alguma dica de como agir com alguém que já trabalha a mais tempo que você na empresa, mas não faz coisas básicas para ter um mínimo de qualidade de código ... Que inclusive faz coisas que abrem brechas de segurança.
+01:03:20	Jamesson Faria:	vai parar uns 10 minutos ?
+01:03:40	GUSTAVO SEABRA:	sou eu mesmo mano
+01:03:44	GUSTAVO SEABRA:	kkkkk
+01:04:24	Darcio Cantelli:	Fala Albert. Me explique o caso do SQL ignorante. Tem muitos sistemas que começamos com a modelagem. O contrário que foi explicado. É errado ?
+01:04:24	Jamesson Faria:	principalmente códigos legados
+01:04:31	Glauber Monitor IGTI:	Boa noite pessoal, tudo bem? Enquete liberada lá no ambiente de ensino. Segue, o link;D 
+
+https://online.igti.com.br/courses/3209/quizzes/32367
+01:05:27	Rodrigo de Almeida Francisco:	A um tempo atrás eu passei por isso... fiz uma integração com outro sistema (de outra equipe) da própria empresa, e deu um gargalo gigante no outro software, devido o mau uso do NHibernet que foi descoberto devido análise de telemetria...
+01:05:59	Rodrigo de Almeida Francisco:	ai foi feito um codereview para melhorar o software
+01:06:16	Rodrigo de Almeida Francisco:	na utilização do Nhibertnet
+01:07:38	Hallison Faria:	e Papel do Arquiteto montar POC, para algumas coisas novas que eles sugerem?
+01:07:47	Andrew Mak:	Silvia, acredito que colocando no processo de entrega uma ferramenta de segurança e cobertura de código por exemplo(SonarQube, Fortify, etc)
+01:08:26	Silvia Schwanz Lucas:	Legal Andrew, boa dica ... 
+01:08:45	Caio Pierno:	Se você por exemplo condiciona a aplicação para o uso de um Redis, por exemplo, trocou a tecnologia você tem que refazer o sistema
+01:08:55	Caio Pierno:	Ou conviver pra sempre com uma tecnologia obsoleta
+01:09:01	Guilherme de Melo:	Modelamos para o banco de dados e tivemos problemas rs
+01:09:35	GUSTAVO SEABRA:	Flag... avô do feature toggle. kkkkk
+01:09:49	Mauricio Trindade:	kkkkk
+01:09:52	Andrew Mak:	kkkk
+01:10:26	Ugo Cavalcanti:	boa noite galera... vacilei. Esuqeci q era mais cedo hooooje..
+01:10:27	Mauricio Trindade:	toggle foi inventado pra deixar a flag "mais bonitinha" kkkk
+01:10:31	Andrew Mak:	gosto quando falha os testes
+01:10:39	Ugo Cavalcanti:	ja passou tb a enquete ne?
+01:10:40	Andrew Mak:	quer dizer que está testando mesmo
+01:10:53	João Paulo B. Faria:	Tá aberta ainda Ugo
+01:11:06	Sandro de Souza:	nao
+01:11:06	Ugo Cavalcanti:	tem link ai
+01:11:10	Odivaney Pedro:	Boa noite pessoal, tudo bem? Enquete liberada lá no ambiente de ensino. Segue, o link;D https://online.igti.com.br/courses/3209/quizzes/32367
+01:11:10	William Teixeira:	explica ai
+01:11:12	João Paulo B. Faria:	https://online.igti.com.br/courses/3209/quizzes/32367
+01:11:13	GIULIANO vimieiro:	eu não sei
+01:11:15	Andrew Mak:	sim kkk
+01:11:15	Deivid Willyan Rodrigues Fabiano:	explica
+01:11:24	GUSTAVO SEABRA:	quem nunca ?? kkkkkk
+01:11:38	Andrew Mak:	ativar/desativar features do seu sistema kkk
+01:11:51	Ugo Cavalcanti:	valeu galera... tmj agr
+01:12:41	Camila Melo Machado:	Qual sua opinião sobre o Entity Framework? Acha que vale a pena? Já ouvi vários problemas de performance por causa dele.
+01:12:53	Oscar Casagrande:	https://github.com/Unleash/unleash :) Unleash is a open source feature flag & toggle system, that gives you a great overview over all feature toggles across all your applications and services. It comes with official client implementations for Java, Node.js, Go, Ruby, Python and .NET Core.
+01:14:14	GUSTAVO SEABRA:	Camila, PRA MIM, a maioria das vezes os problemas de performance do entity é que o dev não soube usar direito.
+01:14:38	William Teixeira:	DApper? caramba..
+01:14:45	Andrew Mak:	concordo
+01:14:47	Rodrigo de Almeida Francisco:	olha eu uso ele na empresa... e até agora ta de boa...
+01:15:08	William Teixeira:	ah sim...
+01:15:08	Kevin Allen:	Dapper é top. Já usei muito… cenários que tem que tirar leite de pedra é um bom uso.
+01:15:27	Melissa Trofino Vieira de Santana:	select * from pra todo lado hahaha
+01:15:34	Melissa Trofino Vieira de Santana:	infinitos joins
+01:15:58	Rodrigo de Almeida Francisco:	acho que pra isso envolve muito de como está a modelagem do banco tbm...
+01:16:17	Hallison Faria:	as consultas no Entity Framework e tranquilo tbm?
+01:16:19	Rodrigo de Almeida Francisco:	se a modelagem do banco não ta legal... pode usar qualquer coisa que vai ficar lento
+01:16:30	Weslei Luiz de Paula Pinto:	não depende só do ORM
+01:16:40	Darcio Cantelli:	Albert. Li em algum lugar para não misturar ORM's diferentes na mesma aplicação. Sabe dizer se isso é algum problema ?
+01:16:59	Kevin Allen:	Tem funcionalidades do banco que não são suportadas pelo EF, por exemplo. Isso é um outro uso que talvez o dapper ajude.
+01:17:42	Sandro de Souza:	pela minha experiência, trabalhei muitos anos com o NHinernate muito estável. Já o EF6 dava uns paus malucos e as querys muito zoneado. Já o EF Core vejo como o filho mais novo do Nhibernate tendo as mesmas ideias, de fluente e as querys super sucintas, essa evolução trouxe muito para agregar
+01:18:29	Rodrigo de Almeida Francisco:	o EF tem evoluído bastante... e tem ficado cada vez mais rápido...
+01:18:53	Rodrigo de Almeida Francisco:	mas nada como um bom ADO kkkkkkkk
+01:19:01	Weslei Luiz de Paula Pinto:	kkkkkk
+01:19:44	GUSTAVO SEABRA:	kkkkkkkkkk boa Rodrigo.
+01:19:51	William Teixeira:	kkkkk
+01:21:05	GUSTAVO SEABRA:	Conheço um arquiteto TOP, que mostrou que pro cenário do projeto que tínhamos, os DataSet tipado era a melhor opção. Acredita?
+01:21:11	Guilherme de Melo:	O que o professor tem a dizer sobre o uso do DDD nas equipes em que trabalhou? Já li o livro do Evans e agora estou lendo o livro do Vaughn Vernon, mas tenho dificuldade ainda de colocar em código esses conhecimentos
+01:21:21	GUSTAVO SEABRA:	Acho que vai muito de contexto
+01:21:32	Rodrigo de Almeida Francisco:	ADO é agro, TECH.... kkk
+01:23:58	Kevin Allen:	DDD são princípios para atacar a complexidade do domínio, mas na real a galera adiciona complexidade técnica quando tenta implementar kk.
+01:24:18	Odivaney Pedro:	Regras de negócio Albert
+01:26:01	Bruno Alves dos Santos:	punido = possuí multa por atraso?
+01:27:29	João Paulo B. Faria:	Albert? Semana que vem, no mesmo horário? 21 horas daqui será 3 da manhã para você, não?
+01:27:49	João Paulo B. Faria:	boa!
+01:27:55	Glauber Monitor IGTI:	Exatamente
+01:27:55	Edson Candido:	estava somente hj
+01:27:59	Weslei Luiz de Paula Pinto:	informaram pra gente as 19
+01:28:04	Weslei Luiz de Paula Pinto:	só hoje
+01:28:11	Glauber Monitor IGTI:	Aula proxima aula tambem será as 19hrs
+01:29:00	GIULIANO vimieiro:	Caro(a) aluno(a) As aulas interativas do Módulo 4 foram ajustadas em razão do Fuso Horário entre o Brasil e o País de onde o Professor fará a transmissão.  As novas datas e horários são:22/04 às 19h29/04 às 21h Desde já agradeço a compreensão de todos, e peço que compartilhem com seus colegas.
+01:29:15	Darcio Cantelli:	Obrigado a todos
+01:29:19	Darcio Cantelli:	Obrigado Albert
+01:29:21	João Paulo B. Faria:	Abraços amigo.
+01:29:22	Darcio Cantelli:	Sucesso !!!
+01:29:22	Carlos Eduardo Jeronimo:	Obrigado!
+01:29:23	Antonio Resende:	Boa noite a todos.
+01:29:25	João Lucas Stephan:	Obrigado Albert, muito bom assistir suas aulas
+01:29:26	João Paulo B. Faria:	Obrigado pela aula!
+01:29:29	Felipe Sbragia:	Obrigado Albert, melhor módulo até agora!
+01:29:32	Alexandre Tuti:	Excelente aula, parabéns.
+01:29:33	Angelica de Ribeiro:	Obrigada!!
+01:29:34	Oscar Casagrande:	vlw
+01:29:34	Darcio Cantelli:	Tem grupo no Whatssapp
+01:29:35	Mauricio Trindade:	Valeu!
+01:29:36	Vinícius Zanchini:	obrigado professor
+01:29:36	Maurilio Macedo:	Vlw galera...
+01:29:36	Rodrigo de Almeida Francisco:	valeu Albert!
+01:29:36	GUSTAVO SEABRA:	Vlw Mano Albert. Abraço
+01:29:36	Kevin Allen:	Valeu!
+01:29:37	Guilherme de Melo:	Valeu, Albert :D
+01:29:37	Thomaz Candido:	Obrigado !!! Abraços..
+01:29:37	Weslei Luiz de Paula Pinto:	Ótima a aula, muito obrigado professor 
+01:29:37	Oscar Casagrande:	ótima noite
+01:29:37	Allef Gomes:	Obg Albert
+01:29:37	Everton Bezerra:	obrigado Albert
+01:29:38	Robson Ricardo:	Show, excelente
+01:29:40	Ricardo de Oliveira Cruz Junior:	Valeu !!!
+01:29:42	Richard Altmayer:	Boa noite a todos
+01:29:42	Allef Gomes:	Suvesso
+01:29:42	Rodrigo de Almeida Francisco:	boa noite!
+01:29:43	GIULIANO vimieiro:	Obrigado pela aulaBoa noite
+01:29:45	Jamesson Faria:	vlw professor
+01:29:45	Jamesson Faria:	abss
+01:29:49	Caio Pierno:	Boa noite !
+01:29:51	Allef Gomes:	vlw
+01:29:51	William Teixeira:	Obrigado, a aula foi ótima!
+01:29:52	Darcio Cantelli:	Falou !!!
+01:29:52	Felipe Sbragia:	valeu, boa noite
+01:29:52	Guilherme de Melo:	Boa noite
+01:29:53	Marcelo Martins:	Valeu pela aula... boa noite
+01:29:53	João Lucas Stephan:	Boa noite!
+01:29:54	Elton Moro:	flw
+01:29:55	Silvia Schwanz Lucas:	boa noite
+01:29:56	William Teixeira:	Um abraço a todos!
+01:29:58	Weslei Luiz de Paula Pinto:	falou
+01:30:04	Glauber Monitor IGTI:	Boa noite pessoal! Até a próxima
